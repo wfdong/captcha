@@ -1,0 +1,1000 @@
+
+2014-10-28 20:10:32,986 INFO    [LOG.py:25(info)] Add 2500000 for ID=169, username=747066844, time=2014-10-28 20:10:32
+2014-10-28 23:29:39,560 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-10-29 03:18:23,231 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-10-29 03:20:00,096 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-10-29 03:20:15,950 INFO    [LOG.py:25(info)] Add 10000000 for ID=239, username=a7600999, time=2014-10-29 03:20:15
+2014-10-29 06:52:29,520 INFO    [LOG.py:25(info)] Add 2500000 for ID=169, username=747066844, time=2014-10-29 06:52:29
+2014-10-29 20:49:04,018 INFO    [LOG.py:25(info)] Add 2500000 for ID=169, username=747066844, time=2014-10-29 20:49:04
+2014-10-29 21:28:53,796 INFO    [LOG.py:25(info)] Add -4400000 for ID=169, username=747066844, time=2014-10-29 21:28:53
+2014-10-29 21:29:08,930 INFO    [LOG.py:25(info)] Add 2500000 for ID=169, username=747066844, time=2014-10-29 21:29:08
+2014-10-29 23:07:34,590 INFO    [LOG.py:25(info)] Add 4400000 for ID=169, username=747066844, time=2014-10-29 23:07:34
+2014-10-30 04:32:25,399 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-10-30 04:34:12,931 INFO    [LOG.py:25(info)] Add 1000000 for ID=236, username=siniandd, time=2014-10-30 04:34:12
+2014-10-30 04:49:01,680 INFO    [LOG.py:25(info)] Add 7000000 for ID=169, username=747066844, time=2014-10-30 04:49:01
+2014-10-30 07:11:36,467 INFO    [LOG.py:25(info)] Add 5000000 for ID=169, username=747066844, time=2014-10-30 07:11:36
+2014-10-30 18:17:42,277 INFO    [LOG.py:25(info)] Add 2500000 for ID=169, username=747066844, time=2014-10-30 18:17:42
+2014-10-31 23:55:02,594 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-11-01 05:02:32,225 INFO    [LOG.py:25(info)] Add 1000000 for ID=236, username=siniandd, time=2014-11-01 05:02:32
+2014-11-01 05:12:34,234 INFO    [LOG.py:25(info)] Add 4000000 for ID=169, username=747066844, time=2014-11-01 05:12:34
+2014-11-01 05:36:18,899 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-01 05:36:18
+2014-11-01 16:08:14,461 INFO    [LOG.py:25(info)] Add -110213000 for ID=144, username=testlogin, time=2014-11-01 16:08:14
+2014-11-01 16:09:52,950 INFO    [LOG.py:25(info)] Add 1990000000 for ID=164, username=wfdong, time=2014-11-01 16:09:52
+2014-11-01 16:10:08,333 INFO    [LOG.py:25(info)] Add -3980000000 for ID=164, username=wfdong, time=2014-11-01 16:10:08
+2014-11-01 16:23:06,083 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-11-01 16:24:21,939 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-11-01 16:24:41,611 INFO    [LOG.py:25(info)] Add -79000000 for ID=145, username=testloginsub, time=2014-11-01 16:24:41
+2014-11-01 16:25:20,231 INFO    [LOG.py:25(info)] Add 1 for ID=356, username=wfdsub, time=2014-11-01 16:25:20
+2014-11-01 16:25:45,151 INFO    [LOG.py:25(info)] Add -9000000 for ID=356, username=wfdsub, time=2014-11-01 16:25:45
+2014-11-01 16:31:51,414 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-11-01 16:33:02,500 INFO    [LOG.py:25(info)] Add 100000 for ID=145, username=testloginsub, time=2014-11-01 16:33:02
+2014-11-01 16:33:23,381 INFO    [LOG.py:25(info)] Add 10000 for ID=145, username=testloginsub, time=2014-11-01 16:33:23
+2014-11-01 21:42:53,193 INFO    [LOG.py:25(info)] Add 10000000 for ID=379, username=wfdong2, time=2014-11-01 21:42:53
+2014-11-01 21:43:16,615 INFO    [LOG.py:25(info)] Add 1000000 for ID=380, username=wfdsub2, time=2014-11-01 21:43:16
+2014-11-01 22:26:42,561 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-01 22:26:42
+2014-11-02 01:44:24,768 INFO    [LOG.py:25(info)] Add 1000000 for ID=164, username=wfdong, time=2014-11-02 01:44:24
+2014-11-02 01:46:13,098 INFO    [LOG.py:25(info)] Add 100 for ID=164, username=wfdong, time=2014-11-02 01:46:13
+2014-11-02 01:48:46,966 INFO    [LOG.py:25(info)] Add 1000000 for ID=379, username=wfdong2, time=2014-11-02 01:48:46
+2014-11-02 01:49:15,023 INFO    [LOG.py:25(info)] Add 100 for ID=380, username=wfdsub2, time=2014-11-02 01:49:15
+2014-11-02 01:52:24,880 INFO    [LOG.py:25(info)] Add 1 for ID=379, username=wfdong2, time=2014-11-02 01:52:24
+2014-11-02 02:05:09,166 INFO    [LOG.py:25(info)] Add 100 for ID=164, username=wfdong, time=2014-11-02 02:05:09
+2014-11-02 02:08:15,564 INFO    [LOG.py:25(info)] Add 122 for ID=164, username=wfdong, time=2014-11-02 02:08:15
+2014-11-02 02:20:13,699 INFO    [LOG.py:25(info)] Add 1000000 for ID=164, username=wfdong, time=2014-11-02 02:20:13
+2014-11-02 02:21:38,011 INFO    [LOG.py:25(info)] Add 1000000 for ID=164, username=wfdong, time=2014-11-02 02:21:38
+2014-11-02 02:25:24,155 INFO    [LOG.py:25(info)] Add 1000000 for ID=164, username=wfdong, time=2014-11-02 02:25:24
+2014-11-02 02:59:19,035 INFO    [LOG.py:25(info)] Add 1000000 for ID=236, username=siniandd, time=2014-11-02 02:59:19
+2014-11-02 03:00:43,049 INFO    [LOG.py:25(info)] Add 4000000 for ID=169, username=747066844, time=2014-11-02 03:00:43
+2014-11-02 03:01:42,238 INFO    [LOG.py:25(info)] Add 1000000 for ID=164, username=wfdong, time=2014-11-02 03:01:42
+2014-11-02 03:27:25,965 INFO    [LOG.py:25(info)] Add -1000000 for ID=164, username=wfdong, time=2014-11-02 03:27:25
+2014-11-02 03:32:54,781 INFO    [LOG.py:25(info)] Add -1000000 for ID=164, username=wfdong, time=2014-11-02 03:32:54
+2014-11-02 03:33:18,787 INFO    [LOG.py:25(info)] Add 1000000 for ID=164, username=wfdong, time=2014-11-02 03:33:18
+2014-11-02 05:01:02,027 INFO    [LOG.py:25(info)] Add -1000000 for ID=164, username=wfdong, time=2014-11-02 05:01:02
+2014-11-02 05:02:18,703 INFO    [LOG.py:25(info)] Add 2000000 for ID=164, username=wfdong, time=2014-11-02 05:02:18
+2014-11-02 05:34:42,056 INFO    [LOG.py:25(info)] Add 1000000 for ID=292, username=holyyx1, time=2014-11-02 05:34:42
+2014-11-02 08:00:49,887 INFO    [LOG.py:25(info)] Add 1000000 for ID=236, username=siniandd, time=2014-11-02 08:00:49
+2014-11-02 08:01:32,317 INFO    [LOG.py:25(info)] Add 1000000 for ID=346, username=525555, time=2014-11-02 08:01:32
+2014-11-02 17:07:46,960 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-02 17:07:46
+2014-11-02 19:48:36,514 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-02 19:48:36
+2014-11-02 17:24:18,779 INFO    [LOG.py:25(info)] Add 1 for ID=145, username=testloginsub, time=2014-11-02 17:24:18
+2014-11-02 18:40:02,430 INFO    [LOG.py:25(info)] Add 3000000 for ID=169, username=747066844, time=2014-11-02 18:40:02
+2014-11-02 21:35:24,842 INFO    [LOG.py:25(info)] Add 2000000 for ID=422, username=123, time=2014-11-02 21:35:24
+2014-11-03 09:12:09,626 INFO    [LOG.py:25(info)] Add 3000000 for ID=169, username=747066844, time=2014-11-03 09:12:09
+2014-11-03 09:12:44,572 INFO    [LOG.py:25(info)] Add 3000000 for ID=169, username=747066844, time=2014-11-03 09:12:44
+2014-11-03 15:55:26,597 INFO    [LOG.py:25(info)] Add 3000000 for ID=169, username=747066844, time=2014-11-03 15:55:26
+2014-11-03 17:51:47,393 INFO    [LOG.py:25(info)] Add 1000000 for ID=236, username=siniandd, time=2014-11-03 17:51:47
+2014-11-03 18:00:33,645 INFO    [LOG.py:25(info)] Add 1000000 for ID=236, username=siniandd, time=2014-11-03 18:00:33
+2014-11-03 22:33:38,016 INFO    [LOG.py:25(info)] Add 3000000 for ID=169, username=747066844, time=2014-11-03 22:33:38
+2014-11-04 13:14:20,894 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-11-04 13:14:42,515 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-11-04 13:16:33,241 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-11-04 13:17:34,878 INFO    [LOG.py:25(info)] Add 100000 for ID=466, username=mytest, time=2014-11-04 13:17:34
+2014-11-04 13:18:02,712 INFO    [LOG.py:25(info)] Add 100000 for ID=466, username=mytest, time=2014-11-04 13:18:02
+2014-11-04 13:19:02,449 INFO    [LOG.py:25(info)] Add 100000 for ID=466, username=mytest, time=2014-11-04 13:19:02
+2014-11-04 20:01:11,803 INFO    [LOG.py:25(info)] Add 3000000 for ID=169, username=747066844, time=2014-11-04 20:01:11
+2014-11-05 08:35:07,393 INFO    [LOG.py:25(info)] Add 3000000 for ID=169, username=747066844, time=2014-11-05 08:35:07
+2014-11-05 13:04:24,393 INFO    [LOG.py:25(info)] Add 2000000 for ID=422, username=123, time=2014-11-05 13:04:24
+2014-11-05 18:30:54,470 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-05 18:30:54
+2014-11-05 20:42:17,341 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-05 20:42:17
+2014-11-05 22:48:37,346 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-05 22:48:37
+2014-11-06 10:38:34,946 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-06 10:38:34
+2014-11-06 17:57:12,478 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-06 17:57:12
+2014-11-06 19:38:32,662 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-06 19:38:32
+2014-11-07 08:49:11,363 INFO    [LOG.py:25(info)] Add 2000000 for ID=422, username=123, time=2014-11-07 08:49:11
+2014-11-07 12:24:29,423 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-07 12:24:29
+2014-11-07 13:07:23,143 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-07 13:07:23
+2014-11-07 14:59:57,355 INFO    [LOG.py:25(info)] Add 1000000 for ID=236, username=siniandd, time=2014-11-07 14:59:57
+2014-11-07 15:03:23,423 INFO    [LOG.py:25(info)] Add 100000 for ID=323, username=my2013, time=2014-11-07 15:03:23
+2014-11-07 16:30:24,398 INFO    [LOG.py:25(info)] Add 200000 for ID=236, username=siniandd, time=2014-11-07 16:30:24
+2014-11-07 18:43:17,166 INFO    [LOG.py:25(info)] Add 100000 for ID=518, username=my, time=2014-11-07 18:43:17
+2014-11-07 18:44:12,803 INFO    [LOG.py:25(info)] Add 100000 for ID=518, username=my, time=2014-11-07 18:44:12
+2014-11-07 21:34:33,682 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-07 21:34:33
+2014-11-07 21:48:17,778 INFO    [LOG.py:25(info)] Add 10000000 for ID=323, username=my2013, time=2014-11-07 21:48:17
+2014-11-07 22:27:13,885 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-07 22:27:13
+2014-11-07 22:28:20,596 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-07 22:28:20
+2014-11-08 12:31:03,955 INFO    [LOG.py:25(info)] Add 1000000 for ID=236, username=siniandd, time=2014-11-08 12:31:03
+2014-11-08 13:04:15,532 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-08 13:04:15
+2014-11-08 18:36:38,597 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-08 18:36:38
+2014-11-08 19:32:27,465 INFO    [LOG.py:25(info)] Add 1000 for ID=169, username=747066844, time=2014-11-08 19:32:27
+2014-11-08 19:34:57,302 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-08 19:34:57
+2014-11-08 19:41:16,011 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-08 19:41:16
+2014-11-08 21:46:50,103 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-08 21:46:50
+2014-11-08 21:48:28,103 INFO    [LOG.py:25(info)] Add 1000 for ID=164, username=wfdong, time=2014-11-08 21:48:28
+2014-11-08 23:01:18,034 INFO    [LOG.py:25(info)] Add 2000000 for ID=422, username=123, time=2014-11-08 23:01:18
+2014-11-08 23:16:23,800 INFO    [LOG.py:25(info)] Add 1000000 for ID=236, username=siniandd, time=2014-11-08 23:16:23
+2014-11-08 23:27:21,661 INFO    [LOG.py:25(info)] Add 200000 for ID=236, username=siniandd, time=2014-11-08 23:27:21
+2014-11-09 09:22:18,062 INFO    [LOG.py:25(info)] Add 6000000 for ID=169, username=747066844, time=2014-11-09 09:22:18
+2014-11-09 18:36:18,651 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-09 18:36:18
+2014-11-09 18:40:11,750 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-09 18:40:11
+2014-11-10 12:30:39,423 INFO    [LOG.py:25(info)] Add 1000 for ID=164, username=wfdong, time=2014-11-10 12:30:39
+2014-11-10 12:41:11,304 INFO    [LOG.py:25(info)] Add 1000 for ID=164, username=wfdong, time=2014-11-10 12:41:11
+2014-11-10 14:05:26,611 INFO    [LOG.py:25(info)] Add 4000000 for ID=169, username=747066844, time=2014-11-10 14:05:26
+2014-11-10 14:05:54,543 INFO    [LOG.py:25(info)] Add 4000000 for ID=169, username=747066844, time=2014-11-10 14:05:54
+2014-11-10 14:07:15,568 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-11-10 14:07:25,542 INFO    [LOG.py:25(info)] Add 4000000 for ID=169, username=747066844, time=2014-11-10 14:07:25
+2014-11-10 15:23:49,433 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-11-10 15:27:25,832 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-11-10 15:29:39,401 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-11-10 15:30:21,720 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-11-10 15:36:12,125 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-11-10 15:36:45,963 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-11-10 15:37:25,029 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-11-10 15:37:31,295 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-10 15:37:31
+2014-11-10 15:37:47,221 INFO    [LOG.py:25(info)] Add -4 for ID=144, username=testlogin, time=2014-11-10 15:37:47
+2014-11-10 15:38:31,280 INFO    [LOG.py:25(info)] Add -70 for ID=144, username=testlogin, time=2014-11-10 15:38:31
+2014-11-10 16:06:09,855 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-10 16:06:09
+2014-11-10 19:11:25,497 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-10 19:11:25
+2014-11-10 19:12:34,695 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-10 19:12:34
+2014-11-10 19:55:04,025 INFO    [LOG.py:25(info)] Add 2000000 for ID=422, username=123, time=2014-11-10 19:55:04
+2014-11-10 19:57:28,486 INFO    [LOG.py:25(info)] Add 2000000 for ID=422, username=123, time=2014-11-10 19:57:28
+2014-11-10 20:30:06,887 INFO    [LOG.py:25(info)] Add 1000 for ID=164, username=wfdong, time=2014-11-10 20:30:06
+2014-11-10 23:22:22,354 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-10 23:22:22
+2014-11-10 23:22:28,668 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-10 23:22:28
+2014-11-10 23:22:33,334 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-10 23:22:33
+2014-11-10 23:22:39,172 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-10 23:22:39
+2014-11-10 23:22:44,305 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-10 23:22:44
+2014-11-10 23:24:07,123 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-10 23:24:07
+2014-11-10 23:24:16,945 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-10 23:24:16
+2014-11-10 23:24:24,317 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-10 23:24:24
+2014-11-10 23:24:30,489 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-10 23:24:30
+2014-11-10 23:24:35,974 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-10 23:24:35
+2014-11-10 23:27:13,961 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-10 23:27:13
+2014-11-10 23:27:24,766 INFO    [LOG.py:25(info)] Add 1000000 for ID=144, username=testlogin, time=2014-11-10 23:27:24
+2014-11-10 23:27:35,510 INFO    [LOG.py:25(info)] Add -1000000 for ID=144, username=testlogin, time=2014-11-10 23:27:35
+2014-11-10 23:27:43,218 INFO    [LOG.py:25(info)] Add -11 for ID=144, username=testlogin, time=2014-11-10 23:27:43
+2014-11-10 23:28:39,839 INFO    [LOG.py:25(info)] Add 23 for ID=144, username=testlogin, time=2014-11-10 23:28:39
+2014-11-11 10:39:40,928 INFO    [LOG.py:25(info)] Add 1000000 for ID=236, username=siniandd, time=2014-11-11 10:39:40
+2014-11-11 12:52:49,831 INFO    [LOG.py:25(info)] Add -11 for ID=144, username=testlogin, time=2014-11-11 12:52:49
+2014-11-11 12:57:10,326 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-11-11 12:57:21,289 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 12:57:21,289 INFO    [LOG.py:25(info)] Before update, KEY 144_LEFTCOUNT, LEFT 883900, delta 1
+2014-11-11 12:57:21,290 INFO    [LOG.py:25(info)] After update, KEY 144_LEFTCOUNT, LEFT 883901, delta 1
+2014-11-11 12:57:21,290 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-11 12:57:21
+2014-11-11 13:22:53,134 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 13:22:53,134 INFO    [LOG.py:25(info)] Before update, KEY 144_LEFTCOUNT, LEFT 883901, delta -880000
+2014-11-11 13:22:53,135 INFO    [LOG.py:25(info)] After update, KEY 144_LEFTCOUNT, LEFT 3901, delta -880000
+2014-11-11 13:22:53,135 INFO    [LOG.py:25(info)] Add -880000 for ID=144, username=testlogin, time=2014-11-11 13:22:53
+2014-11-11 15:36:25,044 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 15:36:25,045 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 625114, delta 2000000
+2014-11-11 15:36:25,045 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2625114, delta 2000000
+2014-11-11 15:36:25,045 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-11 15:36:25
+2014-11-11 22:59:49,032 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 22:59:49,032 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 2225114, delta -1400000
+2014-11-11 22:59:49,032 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 825114, delta -1400000
+2014-11-11 22:59:49,032 INFO    [LOG.py:25(info)] Add -1400000 for ID=169, username=747066844, time=2014-11-11 22:59:49
+2014-11-11 23:00:35,265 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 23:00:35,265 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 2225114, delta 1400000
+2014-11-11 23:00:35,266 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 3625114, delta 1400000
+2014-11-11 23:00:35,266 INFO    [LOG.py:25(info)] Add 1400000 for ID=169, username=747066844, time=2014-11-11 23:00:35
+2014-11-11 23:00:45,986 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 23:00:45,987 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 3625114, delta -2800000
+2014-11-11 23:00:45,987 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 825114, delta -2800000
+2014-11-11 23:00:45,988 INFO    [LOG.py:25(info)] Add -2800000 for ID=169, username=747066844, time=2014-11-11 23:00:45
+2014-11-11 23:09:34,858 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 23:09:34,859 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 825114, delta 1270000
+2014-11-11 23:09:34,859 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2095114, delta 1270000
+2014-11-11 23:09:34,860 INFO    [LOG.py:25(info)] Add 1270000 for ID=169, username=747066844, time=2014-11-11 23:09:34
+2014-11-11 23:43:15,173 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 23:43:15,179 INFO    [LOG.py:25(info)] Before update, KEY 144_LEFTCOUNT, LEFT 3901, delta 1
+2014-11-11 23:43:15,179 INFO    [LOG.py:25(info)] After update, KEY 144_LEFTCOUNT, LEFT 3902, delta 1
+2014-11-11 23:43:15,179 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-11 23:43:15
+2014-11-11 23:43:20,022 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 23:43:20,023 INFO    [LOG.py:25(info)] Before update, KEY 144_LEFTCOUNT, LEFT 3902, delta 1
+2014-11-11 23:43:20,023 INFO    [LOG.py:25(info)] After update, KEY 144_LEFTCOUNT, LEFT 3903, delta 1
+2014-11-11 23:43:20,023 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-11 23:43:20
+2014-11-11 23:43:24,033 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 23:43:24,033 INFO    [LOG.py:25(info)] Before update, KEY 144_LEFTCOUNT, LEFT 3903, delta 1
+2014-11-11 23:43:24,033 INFO    [LOG.py:25(info)] After update, KEY 144_LEFTCOUNT, LEFT 3904, delta 1
+2014-11-11 23:43:24,034 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-11 23:43:24
+2014-11-11 23:43:28,200 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 23:43:28,200 INFO    [LOG.py:25(info)] Before update, KEY 144_LEFTCOUNT, LEFT 3904, delta 1
+2014-11-11 23:43:28,201 INFO    [LOG.py:25(info)] After update, KEY 144_LEFTCOUNT, LEFT 3905, delta 1
+2014-11-11 23:43:28,206 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-11 23:43:28
+2014-11-11 23:43:34,066 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 23:43:34,066 INFO    [LOG.py:25(info)] Before update, KEY 144_LEFTCOUNT, LEFT 3905, delta 1
+2014-11-11 23:43:34,066 INFO    [LOG.py:25(info)] After update, KEY 144_LEFTCOUNT, LEFT 3906, delta 1
+2014-11-11 23:43:34,067 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-11 23:43:34
+2014-11-11 23:43:38,491 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 23:43:38,493 INFO    [LOG.py:25(info)] Before update, KEY 144_LEFTCOUNT, LEFT 3906, delta 1
+2014-11-11 23:43:38,493 INFO    [LOG.py:25(info)] After update, KEY 144_LEFTCOUNT, LEFT 3907, delta 1
+2014-11-11 23:43:38,493 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-11 23:43:38
+2014-11-11 23:43:43,528 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 23:43:43,528 INFO    [LOG.py:25(info)] Before update, KEY 144_LEFTCOUNT, LEFT 3907, delta 1
+2014-11-11 23:43:43,528 INFO    [LOG.py:25(info)] After update, KEY 144_LEFTCOUNT, LEFT 3908, delta 1
+2014-11-11 23:43:43,528 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-11 23:43:43
+2014-11-11 23:43:47,249 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 23:43:47,249 INFO    [LOG.py:25(info)] Before update, KEY 144_LEFTCOUNT, LEFT 3908, delta 1
+2014-11-11 23:43:47,250 INFO    [LOG.py:25(info)] After update, KEY 144_LEFTCOUNT, LEFT 3909, delta 1
+2014-11-11 23:43:47,250 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-11 23:43:47
+2014-11-11 23:43:50,959 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 23:43:50,960 INFO    [LOG.py:25(info)] Before update, KEY 144_LEFTCOUNT, LEFT 3909, delta 1
+2014-11-11 23:43:50,960 INFO    [LOG.py:25(info)] After update, KEY 144_LEFTCOUNT, LEFT 3910, delta 1
+2014-11-11 23:43:50,960 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-11 23:43:50
+2014-11-11 23:43:54,740 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 23:43:54,740 INFO    [LOG.py:25(info)] Before update, KEY 144_LEFTCOUNT, LEFT 3910, delta 1
+2014-11-11 23:43:54,740 INFO    [LOG.py:25(info)] After update, KEY 144_LEFTCOUNT, LEFT 3911, delta 1
+2014-11-11 23:43:54,741 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-11 23:43:54
+2014-11-11 23:43:58,633 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 23:43:58,633 INFO    [LOG.py:25(info)] Before update, KEY 144_LEFTCOUNT, LEFT 3911, delta 1
+2014-11-11 23:43:58,634 INFO    [LOG.py:25(info)] After update, KEY 144_LEFTCOUNT, LEFT 3912, delta 1
+2014-11-11 23:43:58,634 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-11 23:43:58
+2014-11-11 23:44:02,270 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 23:44:02,270 INFO    [LOG.py:25(info)] Before update, KEY 144_LEFTCOUNT, LEFT 3912, delta 1
+2014-11-11 23:44:02,271 INFO    [LOG.py:25(info)] After update, KEY 144_LEFTCOUNT, LEFT 3913, delta 1
+2014-11-11 23:44:02,271 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-11 23:44:02
+2014-11-11 23:44:06,839 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 23:44:06,840 INFO    [LOG.py:25(info)] Before update, KEY 144_LEFTCOUNT, LEFT 3913, delta 1
+2014-11-11 23:44:06,840 INFO    [LOG.py:25(info)] After update, KEY 144_LEFTCOUNT, LEFT 3914, delta 1
+2014-11-11 23:44:06,840 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-11 23:44:06
+2014-11-11 23:44:11,192 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 23:44:11,193 INFO    [LOG.py:25(info)] Before update, KEY 144_LEFTCOUNT, LEFT 3914, delta 1
+2014-11-11 23:44:11,193 INFO    [LOG.py:25(info)] After update, KEY 144_LEFTCOUNT, LEFT 3915, delta 1
+2014-11-11 23:44:11,193 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-11 23:44:11
+2014-11-11 23:44:16,026 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 23:44:16,026 INFO    [LOG.py:25(info)] Before update, KEY 144_LEFTCOUNT, LEFT 3915, delta 1
+2014-11-11 23:44:16,026 INFO    [LOG.py:25(info)] After update, KEY 144_LEFTCOUNT, LEFT 3916, delta 1
+2014-11-11 23:44:16,027 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-11 23:44:16
+2014-11-11 23:44:25,285 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 23:44:25,286 INFO    [LOG.py:25(info)] Before update, KEY 144_LEFTCOUNT, LEFT 3916, delta 1
+2014-11-11 23:44:25,286 INFO    [LOG.py:25(info)] After update, KEY 144_LEFTCOUNT, LEFT 3917, delta 1
+2014-11-11 23:44:25,286 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-11 23:44:25
+2014-11-11 23:44:29,756 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 23:44:29,756 INFO    [LOG.py:25(info)] Before update, KEY 144_LEFTCOUNT, LEFT 3917, delta 1
+2014-11-11 23:44:29,757 INFO    [LOG.py:25(info)] After update, KEY 144_LEFTCOUNT, LEFT 3918, delta 1
+2014-11-11 23:44:29,757 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-11 23:44:29
+2014-11-11 23:44:34,781 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 23:44:34,782 INFO    [LOG.py:25(info)] Before update, KEY 144_LEFTCOUNT, LEFT 3918, delta 1
+2014-11-11 23:44:34,784 INFO    [LOG.py:25(info)] After update, KEY 144_LEFTCOUNT, LEFT 3919, delta 1
+2014-11-11 23:44:34,785 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-11 23:44:34
+2014-11-11 23:44:40,419 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 23:44:40,419 INFO    [LOG.py:25(info)] Before update, KEY 144_LEFTCOUNT, LEFT 3919, delta 1
+2014-11-11 23:44:40,420 INFO    [LOG.py:25(info)] After update, KEY 144_LEFTCOUNT, LEFT 3920, delta 1
+2014-11-11 23:44:40,420 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-11 23:44:40
+2014-11-11 23:51:46,957 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 23:51:46,958 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 1995114, delta 1
+2014-11-11 23:51:46,959 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 1995115, delta 1
+2014-11-11 23:51:46,959 INFO    [LOG.py:25(info)] Add 1 for ID=169, username=747066844, time=2014-11-11 23:51:46
+2014-11-11 23:51:51,906 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 23:51:51,906 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 1995115, delta 1
+2014-11-11 23:51:51,906 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 1995116, delta 1
+2014-11-11 23:51:51,907 INFO    [LOG.py:25(info)] Add 1 for ID=169, username=747066844, time=2014-11-11 23:51:51
+2014-11-11 23:52:06,647 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 23:52:06,647 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 1995116, delta 1
+2014-11-11 23:52:06,647 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 1995117, delta 1
+2014-11-11 23:52:06,647 INFO    [LOG.py:25(info)] Add 1 for ID=169, username=747066844, time=2014-11-11 23:52:06
+2014-11-11 23:52:11,789 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 23:52:11,789 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 1995117, delta 1
+2014-11-11 23:52:11,790 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 1995118, delta 1
+2014-11-11 23:52:11,790 INFO    [LOG.py:25(info)] Add 1 for ID=169, username=747066844, time=2014-11-11 23:52:11
+2014-11-11 23:52:16,104 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 23:52:16,104 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 1995118, delta 1
+2014-11-11 23:52:16,105 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 1995119, delta 1
+2014-11-11 23:52:16,105 INFO    [LOG.py:25(info)] Add 1 for ID=169, username=747066844, time=2014-11-11 23:52:16
+2014-11-11 23:52:23,211 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-11 23:52:23,212 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 1995119, delta -4
+2014-11-11 23:52:23,212 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 1995115, delta -4
+2014-11-11 23:52:23,212 INFO    [LOG.py:25(info)] Add -4 for ID=169, username=747066844, time=2014-11-11 23:52:23
+2014-11-12 07:31:53,627 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-12 07:31:53,627 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 95115, delta 2000000
+2014-11-12 07:31:53,628 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2095115, delta 2000000
+2014-11-12 07:31:53,628 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-12 07:31:53
+2014-11-12 13:54:04,697 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-12 13:54:04,697 INFO    [LOG.py:25(info)] Before update, KEY 236_LEFTCOUNT, LEFT 13677, delta 1000000
+2014-11-12 13:54:04,697 INFO    [LOG.py:25(info)] After update, KEY 236_LEFTCOUNT, LEFT 1013677, delta 1000000
+2014-11-12 13:54:04,698 INFO    [LOG.py:25(info)] Add 1000000 for ID=236, username=siniandd, time=2014-11-12 13:54:04
+2014-11-12 17:21:13,614 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-12 17:21:13,622 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 96110, delta 2000000
+2014-11-12 17:21:13,623 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2096110, delta 2000000
+2014-11-12 17:21:13,623 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-12 17:21:13
+2014-11-12 19:05:12,984 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-12 19:05:12,984 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 196110, delta 2000000
+2014-11-12 19:05:12,985 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2196110, delta 2000000
+2014-11-12 19:05:12,985 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-12 19:05:12
+2014-11-12 20:43:15,659 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-12 20:43:15,659 INFO    [LOG.py:25(info)] Before update, KEY 236_LEFTCOUNT, LEFT 187774, delta 1000000
+2014-11-12 20:43:15,659 INFO    [LOG.py:25(info)] After update, KEY 236_LEFTCOUNT, LEFT 1187774, delta 1000000
+2014-11-12 20:43:15,660 INFO    [LOG.py:25(info)] Add 1000000 for ID=236, username=siniandd, time=2014-11-12 20:43:15
+2014-11-13 09:16:12,505 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-13 09:16:12,506 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 36110, delta 2000000
+2014-11-13 09:16:12,506 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2036110, delta 2000000
+2014-11-13 09:16:12,507 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-13 09:16:12
+2014-11-13 14:37:31,694 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-13 14:37:31,694 INFO    [LOG.py:25(info)] Before update, KEY 236_LEFTCOUNT, LEFT 3664, delta 1000000
+2014-11-13 14:37:31,694 INFO    [LOG.py:25(info)] After update, KEY 236_LEFTCOUNT, LEFT 1003664, delta 1000000
+2014-11-13 14:37:31,694 INFO    [LOG.py:25(info)] Add 1000000 for ID=236, username=siniandd, time=2014-11-13 14:37:31
+2014-11-13 19:15:34,485 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-13 19:15:34,487 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 377209, delta 2000000
+2014-11-13 19:15:34,490 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2377209, delta 2000000
+2014-11-13 19:15:34,490 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-13 19:15:34
+2014-11-13 21:53:18,190 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-13 21:53:18,190 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 777209, delta 2000000
+2014-11-13 21:53:18,191 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2777209, delta 2000000
+2014-11-13 21:53:18,191 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-13 21:53:18
+2014-11-14 10:17:48,715 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-11-14 10:17:56,884 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-14 10:17:56,884 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 0, delta 2000000
+2014-11-14 10:17:56,884 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2000000, delta 2000000
+2014-11-14 10:17:56,885 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-14 10:17:56
+2014-11-14 10:18:12,729 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-14 10:18:12,729 INFO    [LOG.py:25(info)] Before update, KEY 236_LEFTCOUNT, LEFT 2926, delta 1000000
+2014-11-14 10:18:12,729 INFO    [LOG.py:25(info)] After update, KEY 236_LEFTCOUNT, LEFT 1002926, delta 1000000
+2014-11-14 10:18:12,730 INFO    [LOG.py:25(info)] Add 1000000 for ID=236, username=siniandd, time=2014-11-14 10:18:12
+2014-11-14 10:35:50,547 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-14 10:35:50,548 INFO    [LOG.py:25(info)] Before update, KEY 144_LEFTCOUNT, LEFT 81000, delta 1
+2014-11-14 10:35:50,549 INFO    [LOG.py:25(info)] After update, KEY 144_LEFTCOUNT, LEFT 81001, delta 1
+2014-11-14 10:35:50,549 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-14 10:35:50
+2014-11-14 10:37:58,558 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-14 10:37:58,558 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 400000, delta 2000000
+2014-11-14 10:37:58,559 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2400000, delta 2000000
+2014-11-14 10:37:58,559 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-14 10:37:58
+2014-11-14 13:20:23,777 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-14 13:20:23,782 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 240000, delta 2000000
+2014-11-14 13:20:23,782 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2240000, delta 2000000
+2014-11-14 13:20:23,782 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-14 13:20:23
+2014-11-14 19:03:00,130 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-14 19:03:00,131 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 360000, delta 3000000
+2014-11-14 19:03:00,131 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 3360000, delta 3000000
+2014-11-14 19:03:00,131 INFO    [LOG.py:25(info)] Add 3000000 for ID=169, username=747066844, time=2014-11-14 19:03:00
+2014-11-14 19:04:34,873 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-14 19:04:34,873 INFO    [LOG.py:25(info)] Before update, KEY 422_LEFTCOUNT, LEFT 0, delta 2000000
+2014-11-14 19:04:34,874 INFO    [LOG.py:25(info)] After update, KEY 422_LEFTCOUNT, LEFT 2000000, delta 2000000
+2014-11-14 19:04:34,874 INFO    [LOG.py:25(info)] Add 2000000 for ID=422, username=123, time=2014-11-14 19:04:34
+2014-11-14 19:09:25,033 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-14 19:09:25,033 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 860000, delta 6000000
+2014-11-14 19:09:25,033 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 6860000, delta 6000000
+2014-11-14 19:09:25,033 INFO    [LOG.py:25(info)] Add 6000000 for ID=169, username=747066844, time=2014-11-14 19:09:25
+2014-11-14 19:26:41,787 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-14 19:26:41,787 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 260000, delta 2000000
+2014-11-14 19:26:41,787 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2260000, delta 2000000
+2014-11-14 19:26:41,787 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-14 19:26:41
+2014-11-14 19:32:49,615 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-14 19:32:49,615 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 1360000, delta 2000000
+2014-11-14 19:32:49,615 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 3360000, delta 2000000
+2014-11-14 19:32:49,616 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-14 19:32:49
+2014-11-15 07:52:41,376 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-15 07:52:41,376 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 620, delta 3000000
+2014-11-15 07:52:41,376 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 3000620, delta 3000000
+2014-11-15 07:52:41,377 INFO    [LOG.py:25(info)] Add 3000000 for ID=169, username=747066844, time=2014-11-15 07:52:41
+2014-11-15 10:06:25,268 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-15 10:06:25,269 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 700620, delta 2000000
+2014-11-15 10:06:25,269 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2700620, delta 2000000
+2014-11-15 10:06:25,269 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-15 10:06:25
+2014-11-15 10:42:58,721 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-15 10:42:58,722 INFO    [LOG.py:25(info)] Before update, KEY 236_LEFTCOUNT, LEFT 926, delta 1000000
+2014-11-15 10:42:58,722 INFO    [LOG.py:25(info)] After update, KEY 236_LEFTCOUNT, LEFT 1000926, delta 1000000
+2014-11-15 10:42:58,722 INFO    [LOG.py:25(info)] Add 1000000 for ID=236, username=siniandd, time=2014-11-15 10:42:58
+2014-11-15 14:51:42,332 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-15 14:51:42,333 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 370138, delta 2000000
+2014-11-15 14:51:42,334 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2370138, delta 2000000
+2014-11-15 14:51:42,334 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-15 14:51:42
+2014-11-15 19:26:22,511 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-15 19:26:22,511 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 70138, delta 2000000
+2014-11-15 19:26:22,511 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2070138, delta 2000000
+2014-11-15 19:26:22,511 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-15 19:26:22
+2014-11-15 19:26:48,254 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-15 19:26:48,255 INFO    [LOG.py:25(info)] Before update, KEY 236_LEFTCOUNT, LEFT 22032, delta 1000000
+2014-11-15 19:26:48,256 INFO    [LOG.py:25(info)] After update, KEY 236_LEFTCOUNT, LEFT 1022032, delta 1000000
+2014-11-15 19:26:48,256 INFO    [LOG.py:25(info)] Add 1000000 for ID=236, username=siniandd, time=2014-11-15 19:26:48
+2014-11-16 10:32:29,323 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-16 10:32:29,324 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 56575, delta 2000000
+2014-11-16 10:32:29,324 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2056575, delta 2000000
+2014-11-16 10:32:29,324 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-16 10:32:29
+2014-11-16 13:27:00,158 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-16 13:27:00,159 INFO    [LOG.py:25(info)] Before update, KEY 236_LEFTCOUNT, LEFT 2946, delta 1000000
+2014-11-16 13:27:00,159 INFO    [LOG.py:25(info)] After update, KEY 236_LEFTCOUNT, LEFT 1002946, delta 1000000
+2014-11-16 13:27:00,159 INFO    [LOG.py:25(info)] Add 1000000 for ID=236, username=siniandd, time=2014-11-16 13:27:00
+2014-11-16 18:00:59,217 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-16 18:00:59,217 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 186575, delta 2000000
+2014-11-16 18:00:59,218 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2186575, delta 2000000
+2014-11-16 18:00:59,218 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-16 18:00:59
+2014-11-16 20:31:49,733 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-16 20:31:49,736 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 286565, delta 2000000
+2014-11-16 20:31:49,737 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2286565, delta 2000000
+2014-11-16 20:31:49,739 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-16 20:31:49
+2014-11-16 23:07:48,758 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-11-16 23:07:57,737 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-11-16 23:47:58,604 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-16 23:47:58,609 INFO    [LOG.py:25(info)] Before update, KEY 144_LEFTCOUNT, LEFT 71488, delta 1
+2014-11-16 23:47:58,610 INFO    [LOG.py:25(info)] After update, KEY 144_LEFTCOUNT, LEFT 71489, delta 1
+2014-11-16 23:47:58,610 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-16 23:47:58
+2014-11-17 10:08:35,206 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-17 10:08:35,208 INFO    [LOG.py:25(info)] Before update, KEY 236_LEFTCOUNT, LEFT 6652, delta 1000000
+2014-11-17 10:08:35,209 INFO    [LOG.py:25(info)] After update, KEY 236_LEFTCOUNT, LEFT 1006652, delta 1000000
+2014-11-17 10:08:35,209 INFO    [LOG.py:25(info)] Add 1000000 for ID=236, username=siniandd, time=2014-11-17 10:08:35
+2014-11-17 11:45:37,368 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-17 11:45:37,369 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 60001, delta 6000000
+2014-11-17 11:45:37,369 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 6060001, delta 6000000
+2014-11-17 11:45:37,369 INFO    [LOG.py:25(info)] Add 6000000 for ID=169, username=747066844, time=2014-11-17 11:45:37
+2014-11-17 12:53:57,671 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-17 12:53:57,671 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 160001, delta 2000000
+2014-11-17 12:53:57,671 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2160001, delta 2000000
+2014-11-17 12:53:57,671 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-17 12:53:57
+2014-11-17 13:52:40,596 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-17 13:52:40,596 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 10001, delta 2000000
+2014-11-17 13:52:40,596 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2010001, delta 2000000
+2014-11-17 13:52:40,596 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-17 13:52:40
+2014-11-17 15:44:40,986 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-17 15:44:40,986 INFO    [LOG.py:25(info)] Before update, KEY 236_LEFTCOUNT, LEFT 86652, delta 1000000
+2014-11-17 15:44:40,987 INFO    [LOG.py:25(info)] After update, KEY 236_LEFTCOUNT, LEFT 1086652, delta 1000000
+2014-11-17 15:44:40,987 INFO    [LOG.py:25(info)] Add 1000000 for ID=236, username=siniandd, time=2014-11-17 15:44:40
+2014-11-17 15:48:03,847 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-17 15:48:03,847 INFO    [LOG.py:25(info)] Before update, KEY 731_LEFTCOUNT, LEFT 0, delta 100000
+2014-11-17 15:48:03,848 INFO    [LOG.py:25(info)] After update, KEY 731_LEFTCOUNT, LEFT 100000, delta 100000
+2014-11-17 15:48:03,848 INFO    [LOG.py:25(info)] Add 100000 for ID=731, username=mytest, time=2014-11-17 15:48:03
+2014-11-17 21:17:56,616 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-17 21:17:56,627 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 83378, delta 2000000
+2014-11-17 21:17:56,627 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2083378, delta 2000000
+2014-11-17 21:17:56,627 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-17 21:17:56
+2014-11-17 21:54:52,847 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-17 21:54:52,847 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 683378, delta 2000000
+2014-11-17 21:54:52,848 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2683378, delta 2000000
+2014-11-17 21:54:52,848 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-17 21:54:52
+2014-11-18 11:24:13,718 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-18 11:24:13,728 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 303378, delta 2000000
+2014-11-18 11:24:13,728 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2303378, delta 2000000
+2014-11-18 11:24:13,728 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-18 11:24:13
+2014-11-18 19:20:09,573 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-18 19:20:09,582 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 1003378, delta 2000000
+2014-11-18 19:20:09,582 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 3003378, delta 2000000
+2014-11-18 19:20:09,583 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-18 19:20:09
+2014-11-18 19:20:38,590 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-18 19:20:38,590 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 3003378, delta 2000000
+2014-11-18 19:20:38,591 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 5003378, delta 2000000
+2014-11-18 19:20:38,591 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-18 19:20:38
+2014-11-18 23:19:42,469 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-11-18 23:20:47,863 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-18 23:20:47,863 INFO    [LOG.py:25(info)] Before update, KEY 144_LEFTCOUNT, LEFT 71483, delta 1
+2014-11-18 23:20:47,863 INFO    [LOG.py:25(info)] After update, KEY 144_LEFTCOUNT, LEFT 71484, delta 1
+2014-11-18 23:20:47,863 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-18 23:20:47
+2014-11-18 23:22:31,048 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-18 23:22:31,048 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 203368, delta 2000000
+2014-11-18 23:22:31,049 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2203368, delta 2000000
+2014-11-18 23:22:31,049 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-18 23:22:31
+2014-11-18 23:23:56,308 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-18 23:23:56,310 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 1203368, delta 2000000
+2014-11-18 23:23:56,310 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 3203368, delta 2000000
+2014-11-18 23:23:56,310 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-18 23:23:56
+2014-11-19 11:20:16,389 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-19 11:20:16,389 INFO    [LOG.py:25(info)] Before update, KEY 777_LEFTCOUNT, LEFT 955809, delta -955000
+2014-11-19 11:20:16,390 INFO    [LOG.py:25(info)] After update, KEY 777_LEFTCOUNT, LEFT 809, delta -955000
+2014-11-19 11:20:16,390 INFO    [LOG.py:25(info)] Add -955000 for ID=777, username=holyholy, time=2014-11-19 11:20:16
+2014-11-19 11:36:32,081 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-19 11:36:32,082 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 351045, delta 2000000
+2014-11-19 11:36:32,083 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2351045, delta 2000000
+2014-11-19 11:36:32,084 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-19 11:36:32
+2014-11-19 14:19:19,180 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-19 14:19:19,181 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 16933, delta 2000000
+2014-11-19 14:19:19,181 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2016933, delta 2000000
+2014-11-19 14:19:19,181 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-19 14:19:19
+2014-11-19 21:14:42,336 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-19 21:14:42,336 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 665711, delta 2000000
+2014-11-19 21:14:42,337 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2665711, delta 2000000
+2014-11-19 21:14:42,337 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-19 21:14:42
+2014-11-19 21:18:27,512 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-19 21:18:27,512 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 1665711, delta 4000000
+2014-11-19 21:18:27,513 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 5665711, delta 4000000
+2014-11-19 21:18:27,513 INFO    [LOG.py:25(info)] Add 4000000 for ID=169, username=747066844, time=2014-11-19 21:18:27
+2014-11-19 23:08:43,236 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-19 23:08:43,245 INFO    [LOG.py:25(info)] Before update, KEY 144_LEFTCOUNT, LEFT 71484, delta 1
+2014-11-19 23:08:43,245 INFO    [LOG.py:25(info)] After update, KEY 144_LEFTCOUNT, LEFT 71485, delta 1
+2014-11-19 23:08:43,245 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-19 23:08:43
+2014-11-19 23:08:52,809 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-19 23:08:52,810 INFO    [LOG.py:25(info)] Before update, KEY 144_LEFTCOUNT, LEFT 71485, delta 1
+2014-11-19 23:08:52,810 INFO    [LOG.py:25(info)] After update, KEY 144_LEFTCOUNT, LEFT 71486, delta 1
+2014-11-19 23:08:52,811 INFO    [LOG.py:25(info)] Add 1 for ID=144, username=testlogin, time=2014-11-19 23:08:52
+2014-11-19 23:09:28,589 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-19 23:09:28,589 INFO    [LOG.py:25(info)] Before update, KEY 144_LEFTCOUNT, LEFT 71486, delta 100
+2014-11-19 23:09:28,589 INFO    [LOG.py:25(info)] After update, KEY 144_LEFTCOUNT, LEFT 71586, delta 100
+2014-11-19 23:09:28,590 INFO    [LOG.py:25(info)] Add 100 for ID=144, username=testlogin, time=2014-11-19 23:09:28
+2014-11-20 12:39:38,453 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-20 12:39:38,459 INFO    [LOG.py:25(info)] Before update, KEY 236_LEFTCOUNT, LEFT 21255, delta 1000000
+2014-11-20 12:39:38,460 INFO    [LOG.py:25(info)] After update, KEY 236_LEFTCOUNT, LEFT 1021255, delta 1000000
+2014-11-20 12:39:38,460 INFO    [LOG.py:25(info)] Add 1000000 for ID=236, username=siniandd, time=2014-11-20 12:39:38
+2014-11-20 16:44:26,960 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-11-20 16:45:01,090 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-11-20 18:43:40,338 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-11-20 18:44:59,121 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-11-20 18:45:18,206 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-11-20 18:46:19,439 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-11-20 18:46:43,256 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-11-20 18:48:06,717 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-20 18:48:06,718 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 504368, delta 2000000
+2014-11-20 18:48:06,718 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2504368, delta 2000000
+2014-11-20 18:48:06,719 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-20 18:48:06
+2014-11-20 20:44:36,671 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-20 20:44:36,671 INFO    [LOG.py:25(info)] Before update, KEY 236_LEFTCOUNT, LEFT 35150, delta 1000000
+2014-11-20 20:44:36,672 INFO    [LOG.py:25(info)] After update, KEY 236_LEFTCOUNT, LEFT 1035150, delta 1000000
+2014-11-20 20:44:36,672 INFO    [LOG.py:25(info)] Add 1000000 for ID=236, username=siniandd, time=2014-11-20 20:44:36
+2014-11-20 21:41:46,151 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-20 21:41:46,151 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 1304368, delta 2000000
+2014-11-20 21:41:46,151 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 3304368, delta 2000000
+2014-11-20 21:41:46,151 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-20 21:41:46
+2014-11-21 08:44:52,339 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-21 08:44:52,339 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 14368, delta 2000000
+2014-11-21 08:44:52,339 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2014368, delta 2000000
+2014-11-21 08:44:52,340 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-21 08:44:52
+2014-11-21 09:23:09,308 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-21 09:23:09,309 INFO    [LOG.py:25(info)] Before update, KEY 422_LEFTCOUNT, LEFT 283207, delta 2000000
+2014-11-21 09:23:09,309 INFO    [LOG.py:25(info)] After update, KEY 422_LEFTCOUNT, LEFT 2283207, delta 2000000
+2014-11-21 09:23:09,310 INFO    [LOG.py:25(info)] Add 2000000 for ID=422, username=123, time=2014-11-21 09:23:09
+2014-11-21 10:43:47,421 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-21 10:43:47,421 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 64368, delta 2000000
+2014-11-21 10:43:47,422 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2064368, delta 2000000
+2014-11-21 10:43:47,422 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-21 10:43:47
+2014-11-21 12:01:05,777 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-21 12:01:05,777 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 724368, delta 2000000
+2014-11-21 12:01:05,778 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2724368, delta 2000000
+2014-11-21 12:01:05,778 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-21 12:01:05
+2014-11-21 16:19:03,954 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-21 16:19:03,962 INFO    [LOG.py:25(info)] Before update, KEY 236_LEFTCOUNT, LEFT 48378, delta 1000000
+2014-11-21 16:19:03,962 INFO    [LOG.py:25(info)] After update, KEY 236_LEFTCOUNT, LEFT 1048378, delta 1000000
+2014-11-21 16:19:03,963 INFO    [LOG.py:25(info)] Add 1000000 for ID=236, username=siniandd, time=2014-11-21 16:19:03
+2014-11-21 17:17:44,097 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-21 17:17:44,097 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 94368, delta 2000000
+2014-11-21 17:17:44,098 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2094368, delta 2000000
+2014-11-21 17:17:44,098 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-21 17:17:44
+2014-11-21 19:40:49,800 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-21 19:40:49,800 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 179368, delta 2000000
+2014-11-21 19:40:49,801 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2179368, delta 2000000
+2014-11-21 19:40:49,801 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-21 19:40:49
+2014-11-21 20:47:57,917 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-21 20:47:57,918 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 729368, delta 2000000
+2014-11-21 20:47:57,918 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2729368, delta 2000000
+2014-11-21 20:47:57,919 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-21 20:47:57
+2014-11-21 21:01:01,105 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-21 21:01:01,106 INFO    [LOG.py:25(info)] Before update, KEY 236_LEFTCOUNT, LEFT 255249, delta 1000000
+2014-11-21 21:01:01,106 INFO    [LOG.py:25(info)] After update, KEY 236_LEFTCOUNT, LEFT 1255249, delta 1000000
+2014-11-21 21:01:01,106 INFO    [LOG.py:25(info)] Add 1000000 for ID=236, username=siniandd, time=2014-11-21 21:01:01
+2014-11-21 21:02:38,248 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-21 21:02:38,248 INFO    [LOG.py:25(info)] Before update, KEY 236_LEFTCOUNT, LEFT 1255249, delta 1000000
+2014-11-21 21:02:38,248 INFO    [LOG.py:25(info)] After update, KEY 236_LEFTCOUNT, LEFT 2255249, delta 1000000
+2014-11-21 21:02:38,250 INFO    [LOG.py:25(info)] Add 1000000 for ID=236, username=siniandd, time=2014-11-21 21:02:38
+2014-11-22 02:50:05,572 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-22 02:50:05,574 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 97750, delta 2000000
+2014-11-22 02:50:05,575 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2097750, delta 2000000
+2014-11-22 02:50:05,575 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-22 02:50:05
+2014-11-22 10:07:36,913 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-22 10:07:36,913 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 47750, delta 2000000
+2014-11-22 10:07:36,914 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2047750, delta 2000000
+2014-11-22 10:07:36,914 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-22 10:07:36
+2014-11-22 10:35:13,775 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-22 10:35:13,776 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 747750, delta 2000000
+2014-11-22 10:35:13,776 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2747750, delta 2000000
+2014-11-22 10:35:13,776 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-22 10:35:13
+2014-11-22 13:45:31,915 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-22 13:45:31,916 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 922750, delta 2000000
+2014-11-22 13:45:31,916 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2922750, delta 2000000
+2014-11-22 13:45:31,916 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-22 13:45:31
+2014-11-22 16:47:57,401 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-22 16:47:57,401 INFO    [LOG.py:25(info)] Before update, KEY 236_LEFTCOUNT, LEFT 76718, delta 1000000
+2014-11-22 16:47:57,401 INFO    [LOG.py:25(info)] After update, KEY 236_LEFTCOUNT, LEFT 1076718, delta 1000000
+2014-11-22 16:47:57,401 INFO    [LOG.py:25(info)] Add 1000000 for ID=236, username=siniandd, time=2014-11-22 16:47:57
+2014-11-22 17:54:17,266 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-22 17:54:17,266 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 877750, delta 4000000
+2014-11-22 17:54:17,267 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 4877750, delta 4000000
+2014-11-22 17:54:17,267 INFO    [LOG.py:25(info)] Add 4000000 for ID=169, username=747066844, time=2014-11-22 17:54:17
+2014-11-22 18:02:29,666 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-22 18:02:29,667 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 3777750, delta 6000000
+2014-11-22 18:02:29,667 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 9777750, delta 6000000
+2014-11-22 18:02:29,668 INFO    [LOG.py:25(info)] Add 6000000 for ID=169, username=747066844, time=2014-11-22 18:02:29
+2014-11-22 18:20:15,108 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-22 18:20:15,109 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 277959, delta 6000000
+2014-11-22 18:20:15,109 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 6277959, delta 6000000
+2014-11-22 18:20:15,110 INFO    [LOG.py:25(info)] Add 6000000 for ID=169, username=747066844, time=2014-11-22 18:20:15
+2014-11-22 18:25:57,603 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-22 18:25:57,603 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 1477959, delta 4000000
+2014-11-22 18:25:57,603 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 5477959, delta 4000000
+2014-11-22 18:25:57,603 INFO    [LOG.py:25(info)] Add 4000000 for ID=169, username=747066844, time=2014-11-22 18:25:57
+2014-11-22 20:44:26,966 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-22 20:44:26,966 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 67959, delta 2000000
+2014-11-22 20:44:26,966 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2067959, delta 2000000
+2014-11-22 20:44:26,967 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-22 20:44:26
+2014-11-23 07:44:54,174 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-23 07:44:54,177 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 17959, delta 2000000
+2014-11-23 07:44:54,179 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2017959, delta 2000000
+2014-11-23 07:44:54,179 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-23 07:44:54
+2014-11-23 10:10:03,029 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-23 10:10:03,029 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 17959, delta 2000000
+2014-11-23 10:10:03,030 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2017959, delta 2000000
+2014-11-23 10:10:03,030 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-23 10:10:03
+2014-11-23 11:24:30,925 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-23 11:24:30,925 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 617959, delta 2000000
+2014-11-23 11:24:30,926 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2617959, delta 2000000
+2014-11-23 11:24:30,926 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-23 11:24:30
+2014-11-23 12:29:29,621 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-23 12:29:29,621 INFO    [LOG.py:25(info)] Before update, KEY 236_LEFTCOUNT, LEFT 1502, delta 1000000
+2014-11-23 12:29:29,622 INFO    [LOG.py:25(info)] After update, KEY 236_LEFTCOUNT, LEFT 1001502, delta 1000000
+2014-11-23 12:29:29,622 INFO    [LOG.py:25(info)] Add 1000000 for ID=236, username=siniandd, time=2014-11-23 12:29:29
+2014-11-23 12:35:50,503 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-23 12:35:50,503 INFO    [LOG.py:25(info)] Before update, KEY 236_LEFTCOUNT, LEFT 761502, delta 1000000
+2014-11-23 12:35:50,503 INFO    [LOG.py:25(info)] After update, KEY 236_LEFTCOUNT, LEFT 1761502, delta 1000000
+2014-11-23 12:35:50,503 INFO    [LOG.py:25(info)] Add 1000000 for ID=236, username=siniandd, time=2014-11-23 12:35:50
+2014-11-23 15:53:25,031 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-23 15:53:25,031 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 14594, delta 2000000
+2014-11-23 15:53:25,032 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2014594, delta 2000000
+2014-11-23 15:53:25,032 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-23 15:53:25
+2014-11-23 16:06:59,744 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-23 16:06:59,744 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 1714594, delta 4000000
+2014-11-23 16:06:59,745 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 5714594, delta 4000000
+2014-11-23 16:06:59,745 INFO    [LOG.py:25(info)] Add 4000000 for ID=169, username=747066844, time=2014-11-23 16:06:59
+2014-11-23 16:09:25,449 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-23 16:09:25,449 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 714594, delta 2000000
+2014-11-23 16:09:25,450 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2714594, delta 2000000
+2014-11-23 16:09:25,450 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-23 16:09:25
+2014-11-23 21:14:49,665 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-23 21:14:49,678 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 2614594, delta 2000000
+2014-11-23 21:14:49,678 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 4614594, delta 2000000
+2014-11-23 21:14:49,678 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-23 21:14:49
+2014-11-24 08:01:30,145 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-24 08:01:30,145 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 44594, delta 4000000
+2014-11-24 08:01:30,146 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 4044594, delta 4000000
+2014-11-24 08:01:30,146 INFO    [LOG.py:25(info)] Add 4000000 for ID=169, username=747066844, time=2014-11-24 08:01:30
+2014-11-24 08:01:53,924 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-24 08:01:53,925 INFO    [LOG.py:25(info)] Before update, KEY 422_LEFTCOUNT, LEFT 7373, delta 1000000
+2014-11-24 08:01:53,925 INFO    [LOG.py:25(info)] After update, KEY 422_LEFTCOUNT, LEFT 1007373, delta 1000000
+2014-11-24 08:01:53,925 INFO    [LOG.py:25(info)] Add 1000000 for ID=422, username=123, time=2014-11-24 08:01:53
+2014-11-24 08:49:43,883 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-24 08:49:43,884 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 514594, delta 2000000
+2014-11-24 08:49:43,884 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2514594, delta 2000000
+2014-11-24 08:49:43,885 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-24 08:49:43
+2014-11-24 11:00:20,519 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-24 11:00:20,519 INFO    [LOG.py:25(info)] Before update, KEY 236_LEFTCOUNT, LEFT 8861, delta 1000000
+2014-11-24 11:00:20,519 INFO    [LOG.py:25(info)] After update, KEY 236_LEFTCOUNT, LEFT 1008861, delta 1000000
+2014-11-24 11:00:20,519 INFO    [LOG.py:25(info)] Add 1000000 for ID=236, username=siniandd, time=2014-11-24 11:00:20
+2014-11-24 11:35:21,926 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-24 11:35:21,927 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 654594, delta 6000000
+2014-11-24 11:35:21,927 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 6654594, delta 6000000
+2014-11-24 11:35:21,927 INFO    [LOG.py:25(info)] Add 6000000 for ID=169, username=747066844, time=2014-11-24 11:35:21
+2014-11-24 16:42:42,918 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-24 16:42:42,919 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 804594, delta 2000000
+2014-11-24 16:42:42,919 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2804594, delta 2000000
+2014-11-24 16:42:42,919 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-24 16:42:42
+2014-11-24 22:48:26,079 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-24 22:48:26,079 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 104594, delta 2000000
+2014-11-24 22:48:26,080 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2104594, delta 2000000
+2014-11-24 22:48:26,080 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-24 22:48:26
+2014-11-24 23:41:34,056 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-24 23:41:34,056 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 804594, delta 2000000
+2014-11-24 23:41:34,056 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2804594, delta 2000000
+2014-11-24 23:41:34,057 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-24 23:41:34
+2014-11-24 23:50:55,951 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-24 23:50:55,952 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 2449256, delta 2000000
+2014-11-24 23:50:55,952 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 4449256, delta 2000000
+2014-11-24 23:50:55,952 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-24 23:50:55
+2014-11-25 11:07:58,480 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-25 11:07:58,480 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 318754, delta 8000000
+2014-11-25 11:07:58,480 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 8318754, delta 8000000
+2014-11-25 11:07:58,480 INFO    [LOG.py:25(info)] Add 8000000 for ID=169, username=747066844, time=2014-11-25 11:07:58
+2014-11-25 13:41:15,220 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-25 13:41:15,221 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 118754, delta 4000000
+2014-11-25 13:41:15,221 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 4118754, delta 4000000
+2014-11-25 13:41:15,229 INFO    [LOG.py:25(info)] Add 4000000 for ID=169, username=747066844, time=2014-11-25 13:41:15
+2014-11-25 15:23:21,951 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-25 15:23:21,952 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 138754, delta 4000000
+2014-11-25 15:23:21,952 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 4138754, delta 4000000
+2014-11-25 15:23:21,952 INFO    [LOG.py:25(info)] Add 4000000 for ID=169, username=747066844, time=2014-11-25 15:23:21
+2014-11-26 09:09:51,486 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-26 09:09:51,486 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 20369, delta 2000000
+2014-11-26 09:09:51,487 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2020369, delta 2000000
+2014-11-26 09:09:51,487 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-26 09:09:51
+2014-11-26 09:20:44,671 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-26 09:20:44,672 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 1110363, delta 4000000
+2014-11-26 09:20:44,673 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 5110363, delta 4000000
+2014-11-26 09:20:44,675 INFO    [LOG.py:25(info)] Add 4000000 for ID=169, username=747066844, time=2014-11-26 09:20:44
+2014-11-26 09:42:47,222 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-26 09:42:47,223 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 82516, delta 2000000
+2014-11-26 09:42:47,225 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2082516, delta 2000000
+2014-11-26 09:42:47,225 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-26 09:42:47
+2014-11-26 10:12:31,601 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-26 10:12:31,603 INFO    [LOG.py:25(info)] Before update, KEY 236_LEFTCOUNT, LEFT 2861, delta 2000000
+2014-11-26 10:12:31,608 INFO    [LOG.py:25(info)] After update, KEY 236_LEFTCOUNT, LEFT 2002861, delta 2000000
+2014-11-26 10:12:31,608 INFO    [LOG.py:25(info)] Add 2000000 for ID=236, username=siniandd, time=2014-11-26 10:12:31
+2014-11-26 10:53:12,717 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-26 10:53:12,717 INFO    [LOG.py:25(info)] Before update, KEY 236_LEFTCOUNT, LEFT 842861, delta 2000000
+2014-11-26 10:53:12,718 INFO    [LOG.py:25(info)] After update, KEY 236_LEFTCOUNT, LEFT 2842861, delta 2000000
+2014-11-26 10:53:12,718 INFO    [LOG.py:25(info)] Add 2000000 for ID=236, username=siniandd, time=2014-11-26 10:53:12
+2014-11-26 12:39:35,136 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-26 12:39:35,147 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 32516, delta 2000000
+2014-11-26 12:39:35,185 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2032516, delta 2000000
+2014-11-26 12:39:35,186 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-26 12:39:35
+2014-11-26 16:26:40,052 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-26 16:26:40,055 INFO    [LOG.py:25(info)] Before update, KEY 422_LEFTCOUNT, LEFT 0, delta 2000000
+2014-11-26 16:26:40,059 INFO    [LOG.py:25(info)] After update, KEY 422_LEFTCOUNT, LEFT 2000000, delta 2000000
+2014-11-26 16:26:40,059 INFO    [LOG.py:25(info)] Add 2000000 for ID=422, username=123, time=2014-11-26 16:26:40
+2014-11-26 18:01:09,278 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-26 18:01:09,278 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 473387, delta 2000000
+2014-11-26 18:01:09,278 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2473387, delta 2000000
+2014-11-26 18:01:09,279 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-26 18:01:09
+2014-11-26 18:42:50,484 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-26 18:42:50,486 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 2473387, delta 3000000
+2014-11-26 18:42:50,488 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 5473387, delta 3000000
+2014-11-26 18:42:50,488 INFO    [LOG.py:25(info)] Add 3000000 for ID=169, username=747066844, time=2014-11-26 18:42:50
+2014-11-26 21:27:32,850 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-26 21:27:32,851 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 57144, delta 3000000
+2014-11-26 21:27:32,851 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 3057144, delta 3000000
+2014-11-26 21:27:32,852 INFO    [LOG.py:25(info)] Add 3000000 for ID=169, username=747066844, time=2014-11-26 21:27:32
+2014-11-26 22:59:47,848 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-26 22:59:47,848 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 1757144, delta 6000000
+2014-11-26 22:59:47,849 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 7757144, delta 6000000
+2014-11-26 22:59:47,850 INFO    [LOG.py:25(info)] Add 6000000 for ID=169, username=747066844, time=2014-11-26 22:59:47
+2014-11-27 07:00:49,543 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-27 07:00:49,555 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 45144, delta 6000000
+2014-11-27 07:00:49,578 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 6045144, delta 6000000
+2014-11-27 07:00:49,579 INFO    [LOG.py:25(info)] Add 6000000 for ID=169, username=747066844, time=2014-11-27 07:00:49
+2014-11-27 08:03:07,037 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-27 08:03:07,038 INFO    [LOG.py:25(info)] Before update, KEY 323_LEFTCOUNT, LEFT 6516766, delta -6500000
+2014-11-27 08:03:07,040 INFO    [LOG.py:25(info)] After update, KEY 323_LEFTCOUNT, LEFT 16766, delta -6500000
+2014-11-27 08:03:07,040 INFO    [LOG.py:25(info)] Add -6500000 for ID=323, username=my2013, time=2014-11-27 08:03:07
+2014-11-27 09:07:03,758 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-27 09:07:03,759 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 125693, delta 3000000
+2014-11-27 09:07:03,759 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 3125693, delta 3000000
+2014-11-27 09:07:03,760 INFO    [LOG.py:25(info)] Add 3000000 for ID=169, username=747066844, time=2014-11-27 09:07:03
+2014-11-27 12:45:17,581 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-27 12:45:17,581 INFO    [LOG.py:25(info)] Before update, KEY 236_LEFTCOUNT, LEFT 71512, delta 2000000
+2014-11-27 12:45:17,581 INFO    [LOG.py:25(info)] After update, KEY 236_LEFTCOUNT, LEFT 2071512, delta 2000000
+2014-11-27 12:45:17,582 INFO    [LOG.py:25(info)] Add 2000000 for ID=236, username=siniandd, time=2014-11-27 12:45:17
+2014-11-27 18:35:29,582 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-27 18:35:29,583 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 397175, delta 6000000
+2014-11-27 18:35:29,583 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 6397175, delta 6000000
+2014-11-27 18:35:29,583 INFO    [LOG.py:25(info)] Add 6000000 for ID=169, username=747066844, time=2014-11-27 18:35:29
+2014-11-27 19:30:05,589 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-27 19:30:05,590 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 797175, delta 2000000
+2014-11-27 19:30:05,590 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2797175, delta 2000000
+2014-11-27 19:30:05,590 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-27 19:30:05
+2014-11-27 20:06:26,005 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-27 20:06:26,005 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 497175, delta 2000000
+2014-11-27 20:06:26,005 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2497175, delta 2000000
+2014-11-27 20:06:26,005 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-27 20:06:26
+2014-11-27 22:10:45,949 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-27 22:10:45,953 INFO    [LOG.py:25(info)] Before update, KEY 236_LEFTCOUNT, LEFT 11512, delta 2000000
+2014-11-27 22:10:45,954 INFO    [LOG.py:25(info)] After update, KEY 236_LEFTCOUNT, LEFT 2011512, delta 2000000
+2014-11-27 22:10:45,954 INFO    [LOG.py:25(info)] Add 2000000 for ID=236, username=siniandd, time=2014-11-27 22:10:45
+2014-11-28 06:17:16,107 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-28 06:17:16,108 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 97175, delta 4000000
+2014-11-28 06:17:16,108 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 4097175, delta 4000000
+2014-11-28 06:17:16,108 INFO    [LOG.py:25(info)] Add 4000000 for ID=169, username=747066844, time=2014-11-28 06:17:16
+2014-11-28 07:45:36,427 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-28 07:45:36,427 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 1497175, delta 6000000
+2014-11-28 07:45:36,428 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 7497175, delta 6000000
+2014-11-28 07:45:36,428 INFO    [LOG.py:25(info)] Add 6000000 for ID=169, username=747066844, time=2014-11-28 07:45:36
+2014-11-28 13:07:44,218 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-28 13:07:44,218 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 1697175, delta 2000000
+2014-11-28 13:07:44,221 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 3697175, delta 2000000
+2014-11-28 13:07:44,221 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-28 13:07:44
+2014-11-28 14:17:42,283 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-28 14:17:42,284 INFO    [LOG.py:25(info)] Before update, KEY 236_LEFTCOUNT, LEFT 264512, delta 2000000
+2014-11-28 14:17:42,285 INFO    [LOG.py:25(info)] After update, KEY 236_LEFTCOUNT, LEFT 2264512, delta 2000000
+2014-11-28 14:17:42,285 INFO    [LOG.py:25(info)] Add 2000000 for ID=236, username=siniandd, time=2014-11-28 14:17:42
+2014-11-28 15:07:11,115 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-28 15:07:11,116 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 277386, delta 2000000
+2014-11-28 15:07:11,118 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2277386, delta 2000000
+2014-11-28 15:07:11,119 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-28 15:07:11
+2014-11-28 18:29:01,654 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-28 18:29:01,656 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 2852986, delta 6000000
+2014-11-28 18:29:01,656 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 8852986, delta 6000000
+2014-11-28 18:29:01,656 INFO    [LOG.py:25(info)] Add 6000000 for ID=169, username=747066844, time=2014-11-28 18:29:01
+2014-11-28 18:42:14,998 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-28 18:42:15,014 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 2552986, delta 4000000
+2014-11-28 18:42:15,039 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 6552986, delta 4000000
+2014-11-28 18:42:15,040 INFO    [LOG.py:25(info)] Add 4000000 for ID=169, username=747066844, time=2014-11-28 18:42:15
+2014-11-28 18:52:52,344 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-28 18:52:52,345 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 703072, delta 10000000
+2014-11-28 18:52:52,345 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 10703072, delta 10000000
+2014-11-28 18:52:52,346 INFO    [LOG.py:25(info)] Add 10000000 for ID=169, username=747066844, time=2014-11-28 18:52:52
+2014-11-28 18:58:14,724 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-28 18:58:14,724 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 203072, delta 2000000
+2014-11-28 18:58:14,725 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2203072, delta 2000000
+2014-11-28 18:58:14,725 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-28 18:58:14
+2014-11-28 21:18:52,180 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-28 21:18:52,181 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 188072, delta 2000000
+2014-11-28 21:18:52,182 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2188072, delta 2000000
+2014-11-28 21:18:52,182 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-28 21:18:52
+2014-11-29 08:00:41,697 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-29 08:00:41,711 INFO    [LOG.py:25(info)] Before update, KEY 236_LEFTCOUNT, LEFT 4512, delta 2000000
+2014-11-29 08:00:41,712 INFO    [LOG.py:25(info)] After update, KEY 236_LEFTCOUNT, LEFT 2004512, delta 2000000
+2014-11-29 08:00:41,712 INFO    [LOG.py:25(info)] Add 2000000 for ID=236, username=siniandd, time=2014-11-29 08:00:41
+2014-11-29 10:11:35,321 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-29 10:11:35,323 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 1304844, delta 10000000
+2014-11-29 10:11:35,323 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 11304844, delta 10000000
+2014-11-29 10:11:35,324 INFO    [LOG.py:25(info)] Add 10000000 for ID=169, username=747066844, time=2014-11-29 10:11:35
+2014-11-29 15:42:36,939 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-29 15:42:36,940 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 654844, delta 2000000
+2014-11-29 15:42:36,940 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2654844, delta 2000000
+2014-11-29 15:42:36,940 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-11-29 15:42:36
+2014-11-29 19:03:56,019 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-29 19:03:56,032 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 1454844, delta 10000000
+2014-11-29 19:03:56,033 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 11454844, delta 10000000
+2014-11-29 19:03:56,033 INFO    [LOG.py:25(info)] Add 10000000 for ID=169, username=747066844, time=2014-11-29 19:03:56
+2014-11-29 21:22:43,777 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-29 21:22:43,778 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 1354844, delta 3000000
+2014-11-29 21:22:43,778 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 4354844, delta 3000000
+2014-11-29 21:22:43,778 INFO    [LOG.py:25(info)] Add 3000000 for ID=169, username=747066844, time=2014-11-29 21:22:43
+2014-11-30 08:18:15,048 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-30 08:18:15,048 INFO    [LOG.py:25(info)] Before update, KEY 236_LEFTCOUNT, LEFT 23512, delta 2000000
+2014-11-30 08:18:15,049 INFO    [LOG.py:25(info)] After update, KEY 236_LEFTCOUNT, LEFT 2023512, delta 2000000
+2014-11-30 08:18:15,049 INFO    [LOG.py:25(info)] Add 2000000 for ID=236, username=siniandd, time=2014-11-30 08:18:15
+2014-11-30 08:56:24,353 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-30 08:56:24,353 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 1204834, delta 6000000
+2014-11-30 08:56:24,354 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 7204834, delta 6000000
+2014-11-30 08:56:24,354 INFO    [LOG.py:25(info)] Add 6000000 for ID=169, username=747066844, time=2014-11-30 08:56:24
+2014-11-30 11:41:39,076 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-30 11:41:39,077 INFO    [LOG.py:25(info)] Before update, KEY 236_LEFTCOUNT, LEFT 263512, delta 2000000
+2014-11-30 11:41:39,077 INFO    [LOG.py:25(info)] After update, KEY 236_LEFTCOUNT, LEFT 2263512, delta 2000000
+2014-11-30 11:41:39,077 INFO    [LOG.py:25(info)] Add 2000000 for ID=236, username=siniandd, time=2014-11-30 11:41:39
+2014-11-30 15:49:57,052 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-30 15:49:57,052 INFO    [LOG.py:25(info)] Before update, KEY 236_LEFTCOUNT, LEFT 33512, delta 20000000
+2014-11-30 15:49:57,053 INFO    [LOG.py:25(info)] After update, KEY 236_LEFTCOUNT, LEFT 20033512, delta 20000000
+2014-11-30 15:49:57,060 INFO    [LOG.py:25(info)] Add 20000000 for ID=236, username=siniandd, time=2014-11-30 15:49:57
+2014-11-30 15:50:18,590 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-30 15:50:18,591 INFO    [LOG.py:25(info)] Before update, KEY 236_LEFTCOUNT, LEFT 20033512, delta -20000000
+2014-11-30 15:50:18,592 INFO    [LOG.py:25(info)] After update, KEY 236_LEFTCOUNT, LEFT 33512, delta -20000000
+2014-11-30 15:50:18,592 INFO    [LOG.py:25(info)] Add -20000000 for ID=236, username=siniandd, time=2014-11-30 15:50:18
+2014-11-30 15:50:33,791 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-30 15:50:33,791 INFO    [LOG.py:25(info)] Before update, KEY 236_LEFTCOUNT, LEFT 33512, delta 2000000
+2014-11-30 15:50:33,791 INFO    [LOG.py:25(info)] After update, KEY 236_LEFTCOUNT, LEFT 2033512, delta 2000000
+2014-11-30 15:50:33,792 INFO    [LOG.py:25(info)] Add 2000000 for ID=236, username=siniandd, time=2014-11-30 15:50:33
+2014-11-30 16:07:53,271 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-30 16:07:53,271 INFO    [LOG.py:25(info)] Before update, KEY 992_LEFTCOUNT, LEFT 0, delta 4000000
+2014-11-30 16:07:53,271 INFO    [LOG.py:25(info)] After update, KEY 992_LEFTCOUNT, LEFT 4000000, delta 4000000
+2014-11-30 16:07:53,271 INFO    [LOG.py:25(info)] Add 4000000 for ID=992, username=398595329, time=2014-11-30 16:07:53
+2014-11-30 16:14:04,644 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-30 16:14:04,644 INFO    [LOG.py:25(info)] Before update, KEY 731_LEFTCOUNT, LEFT 0, delta 200000
+2014-11-30 16:14:04,645 INFO    [LOG.py:25(info)] After update, KEY 731_LEFTCOUNT, LEFT 200000, delta 200000
+2014-11-30 16:14:04,645 INFO    [LOG.py:25(info)] Add 200000 for ID=731, username=mytest, time=2014-11-30 16:14:04
+2014-11-30 18:16:08,297 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-30 18:16:08,297 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 167446, delta 4000000
+2014-11-30 18:16:08,298 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 4167446, delta 4000000
+2014-11-30 18:16:08,298 INFO    [LOG.py:25(info)] Add 4000000 for ID=169, username=747066844, time=2014-11-30 18:16:08
+2014-11-30 20:25:34,519 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-30 20:25:34,520 INFO    [LOG.py:25(info)] Before update, KEY 999_LEFTCOUNT, LEFT 0, delta 100000000
+2014-11-30 20:25:34,520 INFO    [LOG.py:25(info)] After update, KEY 999_LEFTCOUNT, LEFT 100000000, delta 100000000
+2014-11-30 20:25:34,520 INFO    [LOG.py:25(info)] Add 100000000 for ID=999, username=admin2, time=2014-11-30 20:25:34
+2014-11-30 20:48:09,706 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-30 20:48:09,707 INFO    [LOG.py:25(info)] Before update, KEY 999_LEFTCOUNT, LEFT 100000000, delta -100000000
+2014-11-30 20:48:09,707 INFO    [LOG.py:25(info)] After update, KEY 999_LEFTCOUNT, LEFT 0, delta -100000000
+2014-11-30 20:48:09,707 INFO    [LOG.py:25(info)] Add -100000000 for ID=999, username=admin2, time=2014-11-30 20:48:09
+2014-11-30 20:51:49,056 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-11-30 21:05:11,212 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-30 21:05:11,212 INFO    [LOG.py:25(info)] Before update, KEY 999_LEFTCOUNT, LEFT 0, delta 1000000
+2014-11-30 21:05:11,213 INFO    [LOG.py:25(info)] After update, KEY 999_LEFTCOUNT, LEFT 1000000, delta 1000000
+2014-11-30 21:05:11,213 INFO    [LOG.py:25(info)] Add 1000000 for ID=999, username=admin2, time=2014-11-30 21:05:11
+2014-11-30 21:09:13,340 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-30 21:09:13,340 INFO    [LOG.py:25(info)] Before update, KEY 1009_LEFTCOUNT, LEFT 0, delta 100000
+2014-11-30 21:09:13,340 INFO    [LOG.py:25(info)] After update, KEY 1009_LEFTCOUNT, LEFT 100000, delta 100000
+2014-11-30 21:09:13,340 INFO    [LOG.py:25(info)] Add 100000 for ID=1009, username=ssdfsadf, time=2014-11-30 21:09:13
+2014-11-30 21:31:36,985 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-11-30 21:48:05,066 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-11-30 21:49:56,555 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-11-30 21:49:56,555 INFO    [LOG.py:25(info)] Before update, KEY 1009_LEFTCOUNT, LEFT 100000, delta -100000
+2014-11-30 21:49:56,555 INFO    [LOG.py:25(info)] After update, KEY 1009_LEFTCOUNT, LEFT 0, delta -100000
+2014-11-30 21:49:56,556 INFO    [LOG.py:25(info)] Add -100000 for ID=1009, username=ssdfsadf, time=2014-11-30 21:49:56
+2014-12-01 09:13:19,725 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-01 12:20:42,473 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-01 12:21:25,134 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-01 12:21:48,925 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-12-01 12:21:48,925 INFO    [LOG.py:25(info)] Before update, KEY 236_LEFTCOUNT, LEFT 73512, delta 2000000
+2014-12-01 12:21:48,925 INFO    [LOG.py:25(info)] After update, KEY 236_LEFTCOUNT, LEFT 2073512, delta 2000000
+2014-12-01 12:21:48,925 INFO    [LOG.py:25(info)] Add 2000000 for ID=236, username=siniandd, time=2014-12-01 12:21:48
+2014-12-01 14:19:12,603 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-01 14:20:31,131 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-01 14:22:03,637 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-01 14:26:21,238 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-01 20:19:17,927 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-03 13:21:13,760 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-03 13:26:47,112 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-03 13:27:16,621 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-12-03 13:27:16,622 INFO    [LOG.py:25(info)] Before update, KEY 1068_LEFTCOUNT, LEFT 0, delta 1500000
+2014-12-03 13:27:16,623 INFO    [LOG.py:25(info)] After update, KEY 1068_LEFTCOUNT, LEFT 1500000, delta 1500000
+2014-12-03 13:27:16,624 INFO    [LOG.py:25(info)] Add 1500000 for ID=1068, username=aa615311111, time=2014-12-03 13:27:16
+2014-12-03 13:38:22,178 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-03 14:00:17,598 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-03 14:00:25,272 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-03 16:49:17,626 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-03 16:55:14,214 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-03 17:01:28,681 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-03 17:06:46,403 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-03 17:09:28,195 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-03 17:15:52,929 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-03 17:20:58,568 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-03 17:22:59,913 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-03 17:24:39,753 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-03 17:26:08,493 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-03 17:30:57,586 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-03 20:32:33,413 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-03 20:33:06,324 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-12-03 20:33:06,325 INFO    [LOG.py:25(info)] Before update, KEY 1007_LEFTCOUNT, LEFT 56814, delta 100
+2014-12-03 20:33:06,325 INFO    [LOG.py:25(info)] After update, KEY 1007_LEFTCOUNT, LEFT 56914, delta 100
+2014-12-03 20:33:06,325 INFO    [LOG.py:25(info)] Add 100 for ID=1007, username=testv3, time=2014-12-03 20:33:06
+2014-12-03 20:39:30,661 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-03 20:40:16,687 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-03 20:41:27,633 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-03 20:45:04,028 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-03 20:48:08,621 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-03 21:10:54,974 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-03 22:13:36,989 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-03 22:14:09,227 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-12-03 22:14:09,250 INFO    [LOG.py:25(info)] Before update, KEY 992_LEFTCOUNT, LEFT 3437, delta 4000000
+2014-12-03 22:14:09,290 INFO    [LOG.py:25(info)] After update, KEY 992_LEFTCOUNT, LEFT 4003437, delta 4000000
+2014-12-03 22:14:09,290 INFO    [LOG.py:25(info)] Add 4000000 for ID=992, username=398595329, time=2014-12-03 22:14:09
+2014-12-03 22:15:05,122 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-12-03 22:15:05,125 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 3005169, delta 4000000
+2014-12-03 22:15:05,131 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 7005169, delta 4000000
+2014-12-03 22:15:05,131 INFO    [LOG.py:25(info)] Add 4000000 for ID=169, username=747066844, time=2014-12-03 22:15:05
+2014-12-04 09:11:28,099 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-04 09:11:58,613 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-12-04 09:11:58,613 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 3640221, delta 4000000
+2014-12-04 09:11:58,614 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 7640221, delta 4000000
+2014-12-04 09:11:58,614 INFO    [LOG.py:25(info)] Add 4000000 for ID=169, username=747066844, time=2014-12-04 09:11:58
+2014-12-04 09:39:29,826 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-04 09:56:02,690 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-04 12:06:35,415 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-04 12:06:51,923 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-12-04 12:06:51,924 INFO    [LOG.py:25(info)] Before update, KEY 992_LEFTCOUNT, LEFT 253437, delta 4000000
+2014-12-04 12:06:51,924 INFO    [LOG.py:25(info)] After update, KEY 992_LEFTCOUNT, LEFT 4253437, delta 4000000
+2014-12-04 12:06:51,924 INFO    [LOG.py:25(info)] Add 4000000 for ID=992, username=398595329, time=2014-12-04 12:06:51
+2014-12-04 12:28:09,359 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-04 14:17:52,776 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-04 14:18:16,898 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-12-04 14:18:16,899 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 240221, delta 2000000
+2014-12-04 14:18:16,899 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 2240221, delta 2000000
+2014-12-04 14:18:16,899 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-12-04 14:18:16
+2014-12-04 23:18:44,812 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-04 23:19:06,324 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-12-04 23:19:06,325 INFO    [LOG.py:25(info)] Before update, KEY 422_LEFTCOUNT, LEFT 0, delta 2000000
+2014-12-04 23:19:06,325 INFO    [LOG.py:25(info)] After update, KEY 422_LEFTCOUNT, LEFT 2000000, delta 2000000
+2014-12-04 23:19:06,325 INFO    [LOG.py:25(info)] Add 2000000 for ID=422, username=123, time=2014-12-04 23:19:06
+2014-12-05 01:07:51,663 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-05 08:12:46,135 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-05 08:16:57,513 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-05 08:17:11,587 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-12-05 08:17:11,588 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 3894121, delta 4000000
+2014-12-05 08:17:11,588 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 7894121, delta 4000000
+2014-12-05 08:17:11,588 INFO    [LOG.py:25(info)] Add 4000000 for ID=169, username=747066844, time=2014-12-05 08:17:11
+2014-12-05 13:41:50,966 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-05 13:42:20,113 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-12-05 13:42:20,116 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 294121, delta 6000000
+2014-12-05 13:42:20,117 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 6294121, delta 6000000
+2014-12-05 13:42:20,117 INFO    [LOG.py:25(info)] Add 6000000 for ID=169, username=747066844, time=2014-12-05 13:42:20
+2014-12-05 14:00:21,516 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-05 14:00:46,276 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-12-05 14:00:46,277 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 1194121, delta 2000000
+2014-12-05 14:00:46,279 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 3194121, delta 2000000
+2014-12-05 14:00:46,279 INFO    [LOG.py:25(info)] Add 2000000 for ID=169, username=747066844, time=2014-12-05 14:00:46
+2014-12-05 21:45:37,364 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-05 21:45:57,911 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-12-05 21:45:57,912 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 2194121, delta 6000000
+2014-12-05 21:45:57,914 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 8194121, delta 6000000
+2014-12-05 21:45:57,914 INFO    [LOG.py:25(info)] Add 6000000 for ID=169, username=747066844, time=2014-12-05 21:45:57
+2014-12-06 07:27:18,889 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-06 07:27:50,019 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-12-06 07:27:50,020 INFO    [LOG.py:25(info)] Before update, KEY 992_LEFTCOUNT, LEFT 1, delta 6000000
+2014-12-06 07:27:50,020 INFO    [LOG.py:25(info)] After update, KEY 992_LEFTCOUNT, LEFT 6000001, delta 6000000
+2014-12-06 07:27:50,020 INFO    [LOG.py:25(info)] Add 6000000 for ID=992, username=398595329, time=2014-12-06 07:27:50
+2014-12-06 17:52:43,902 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-06 17:53:12,929 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-12-06 17:53:12,929 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 464121, delta 5000000
+2014-12-06 17:53:12,929 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 5464121, delta 5000000
+2014-12-06 17:53:12,930 INFO    [LOG.py:25(info)] Add 5000000 for ID=169, username=747066844, time=2014-12-06 17:53:12
+2014-12-06 18:58:41,308 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-06 18:59:14,856 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-12-06 18:59:14,856 INFO    [LOG.py:25(info)] Before update, KEY 1007_LEFTCOUNT, LEFT 0, delta 100000
+2014-12-06 18:59:14,857 INFO    [LOG.py:25(info)] After update, KEY 1007_LEFTCOUNT, LEFT 100000, delta 100000
+2014-12-06 18:59:14,857 INFO    [LOG.py:25(info)] Add 100000 for ID=1007, username=testv3, time=2014-12-06 18:59:14
+2014-12-09 10:49:28,317 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-09 10:53:19,780 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-09 10:55:20,300 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-09 14:38:17,741 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-09 14:38:34,984 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-12-09 14:38:34,985 INFO    [LOG.py:25(info)] Before update, KEY 169_LEFTCOUNT, LEFT 512573, delta 6000000
+2014-12-09 14:38:34,985 INFO    [LOG.py:25(info)] After update, KEY 169_LEFTCOUNT, LEFT 6512573, delta 6000000
+2014-12-09 14:38:34,986 INFO    [LOG.py:25(info)] Add 6000000 for ID=169, username=747066844, time=2014-12-09 14:38:34
+2014-12-10 22:32:18,147 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-10 22:32:34,609 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-12-10 22:32:34,610 INFO    [LOG.py:25(info)] Before update, KEY 1137_LEFTCOUNT, LEFT 240300, delta 1500000
+2014-12-10 22:32:34,610 INFO    [LOG.py:25(info)] After update, KEY 1137_LEFTCOUNT, LEFT 1740300, delta 1500000
+2014-12-10 22:32:34,610 INFO    [LOG.py:25(info)] Add 1500000 for ID=1137, username=whydidiao, time=2014-12-10 22:32:34
+2014-12-10 22:42:50,008 INFO    [LOG.py:25(info)] Admin Web Server Start
+2014-12-10 22:43:08,861 INFO    [LOG.py:25(info)] ======WEB update begin=====
+2014-12-10 22:43:08,862 INFO    [LOG.py:25(info)] Before update, KEY 1040_LEFTCOUNT, LEFT 476971, delta 3500000
+2014-12-10 22:43:08,862 INFO    [LOG.py:25(info)] After update, KEY 1040_LEFTCOUNT, LEFT 3976971, delta 3500000
+2014-12-10 22:43:08,863 INFO    [LOG.py:25(info)] Add 3500000 for ID=1040, username=jxxsd, time=2014-12-10 22:43:08
+2014-12-12 19:43:55,213 INFO    [LOG.py:25(info)] Admin Web Server Start
