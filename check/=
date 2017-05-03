@@ -1,0 +1,865 @@
+*** Starting uWSGI 1.4.10 (64bit) on [Sun Oct 26 23:11:45 2014] ***
+compiled with version: 4.4.7 20120313 (Red Hat 4.4.7-4) on 26 October 2014 18:31:17
+os: Linux-2.6.32-431.el6.x86_64 #1 SMP Fri Nov 22 03:15:09 UTC 2013
+nodename: localhost.localdomain
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /root/code/check
+detected binary path: /root/Enthought/Canopy_64bit/User/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 127358
+your memory page size is 4096 bytes
+*** starting uWSGI Emperor ***
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] reload the uwsgi instance conf-check.ini
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+*** Starting uWSGI 1.4.10 (64bit) on [Sun Oct 26 23:19:36 2014] ***
+compiled with version: 4.4.7 20120313 (Red Hat 4.4.7-4) on 26 October 2014 18:31:17
+os: Linux-2.6.32-431.el6.x86_64 #1 SMP Fri Nov 22 03:15:09 UTC 2013
+nodename: localhost.localdomain
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /root/code/check
+detected binary path: /root/Enthought/Canopy_64bit/User/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 127358
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+uwsgi socket 0 bound to TCP address 127.0.0.1:8007 fd 3
+Python version: 2.7.6 | 64-bit | (default, Jun  4 2014, 16:32:15)  [GCC 4.1.2 20080704 (Red Hat 4.1.2-52)]
+Python main interpreter initialized at 0x20d0f40
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+mapped 38513376 bytes (37610 KB) for 2400 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x20d0f40 pid: 8804 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 8804)
+spawned uWSGI worker 1 (pid: 8812, cores: 300)
+spawned uWSGI worker 2 (pid: 8813, cores: 300)
+spawned uWSGI worker 3 (pid: 8814, cores: 300)
+spawned uWSGI worker 4 (pid: 8816, cores: 300)
+spawned uWSGI worker 5 (pid: 8818, cores: 300)
+spawned uWSGI worker 6 (pid: 8824, cores: 300)
+spawned uWSGI worker 7 (pid: 8835, cores: 300)
+spawned uWSGI worker 8 (pid: 8841, cores: 300)
+Sun Oct 26 23:20:05 2014 - uWSGI worker 1 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Oct 26 23:20:05 2014 - uWSGI worker 3 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Oct 26 23:20:05 2014 - uWSGI worker 3 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Oct 26 23:20:05 2014 - uWSGI worker 3 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Oct 26 23:20:05 2014 - uWSGI worker 4 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Oct 26 23:20:05 2014 - uWSGI worker 4 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Oct 26 23:20:05 2014 - uWSGI worker 5 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Oct 26 23:20:05 2014 - uWSGI worker 4 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Oct 26 23:20:05 2014 - uWSGI worker 4 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Oct 26 23:20:05 2014 - uWSGI worker 4 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Oct 26 23:20:05 2014 - uWSGI worker 5 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Oct 26 23:20:05 2014 - uWSGI worker 5 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Oct 26 23:20:05 2014 - uWSGI worker 1 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Oct 26 23:20:05 2014 - uWSGI worker 5 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Oct 26 23:20:05 2014 - uWSGI worker 5 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Oct 26 23:20:05 2014 - uWSGI worker 1 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Oct 26 23:20:05 2014 - uWSGI worker 2 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Oct 26 23:20:05 2014 - uWSGI worker 2 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Oct 26 23:20:05 2014 - uWSGI worker 6 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Oct 26 23:20:05 2014 - uWSGI worker 6 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Oct 26 23:20:05 2014 - uWSGI worker 6 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Oct 26 23:20:05 2014 - uWSGI worker 6 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Oct 26 23:20:05 2014 - uWSGI worker 7 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Oct 26 23:20:05 2014 - uWSGI worker 7 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Oct 26 23:20:05 2014 - uWSGI worker 7 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Oct 26 23:20:05 2014 - uWSGI worker 8 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Oct 26 23:20:05 2014 - uWSGI worker 8 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Sun Oct 26 23:20:05 2014 - uWSGI worker 8 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+*** Starting uWSGI 1.4.10 (64bit) on [Sun Oct 26 23:20:08 2014] ***
+compiled with version: 4.4.7 20120313 (Red Hat 4.4.7-4) on 26 October 2014 18:31:17
+os: Linux-2.6.32-431.el6.x86_64 #1 SMP Fri Nov 22 03:15:09 UTC 2013
+nodename: localhost.localdomain
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /root/code/check
+detected binary path: /root/Enthought/Canopy_64bit/User/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 127358
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+uwsgi socket 0 bound to TCP address 127.0.0.1:8007 fd 3
+Python version: 2.7.6 | 64-bit | (default, Jun  4 2014, 16:32:15)  [GCC 4.1.2 20080704 (Red Hat 4.1.2-52)]
+Python main interpreter initialized at 0x15a1f40
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+mapped 38513376 bytes (37610 KB) for 2400 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x15a1f40 pid: 11245 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 11245)
+spawned uWSGI worker 1 (pid: 11253, cores: 300)
+spawned uWSGI worker 2 (pid: 11254, cores: 300)
+spawned uWSGI worker 3 (pid: 11255, cores: 300)
+spawned uWSGI worker 4 (pid: 11257, cores: 300)
+spawned uWSGI worker 5 (pid: 11259, cores: 300)
+spawned uWSGI worker 6 (pid: 11265, cores: 300)
+spawned uWSGI worker 7 (pid: 11267, cores: 300)
+spawned uWSGI worker 8 (pid: 11274, cores: 300)
+lost connection with my emperor !!!
+SIGINT/SIGQUIT received...killing workers...
+SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) !!!
+SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) !!!
+SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) !!!
+SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) !!!
+SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) !!!
+SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) !!!
+SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) !!!
+SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) !!!
+SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) !!!
+SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) !!!
+SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) !!!
+SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) !!!
+SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) !!!
+SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) !!!
+SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) !!!
+SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) !!!
+SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) !!!
+SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) !!!
+SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) !!!
+SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) !!!
+SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) !!!
+SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) !!!
+SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) !!!
+SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) !!!
+SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) !!!
+SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) !!!
+SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) !!!
+SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) !!!
+*** Starting uWSGI 1.4.10 (64bit) on [Mon Oct 27 01:19:20 2014] ***
+compiled with version: 4.4.7 20120313 (Red Hat 4.4.7-4) on 26 October 2014 18:31:17
+os: Linux-2.6.32-431.el6.x86_64 #1 SMP Fri Nov 22 03:15:09 UTC 2013
+nodename: localhost.localdomain
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /root/code/check
+detected binary path: /root/Enthought/Canopy_64bit/User/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 127358
+your memory page size is 4096 bytes
+*** starting uWSGI Emperor ***
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+[emperor] unloyal bad behaving vassal found: conf-check.ini throttling it...
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+*** Starting uWSGI 1.4.10 (64bit) on [Mon Oct 27 01:20:47 2014] ***
+compiled with version: 4.4.7 20120313 (Red Hat 4.4.7-4) on 26 October 2014 18:31:17
+os: Linux-2.6.32-431.el6.x86_64 #1 SMP Fri Nov 22 03:15:09 UTC 2013
+nodename: localhost.localdomain
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 16
+current working directory: /root/code/check
+detected binary path: /root/Enthought/Canopy_64bit/User/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 127358
+your memory page size is 4096 bytes
+*** starting uWSGI Emperor ***
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+[emperor] vassal conf-check.ini is now loyal
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+[emperor] unloyal bad behaving vassal found: conf-check.ini throttling it...
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+[emperor] maximum throttle level for vassal conf-check.ini reached !!!
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
+[emperor] reload the uwsgi instance conf-check.ini
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+[emperor] vassal conf-check.ini is now loyal
+*** has_emperor mode detected (fd: 6) ***
+[uWSGI] getting INI configuration from conf-check.ini
+[emperor] removed uwsgi instance conf-check.ini
