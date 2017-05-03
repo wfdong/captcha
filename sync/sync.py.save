@@ -1,0 +1,282 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*- 
+
+import os
+import datetime
+import config
+import hashlib
+import uuid
+import random
+import MySQLdb
+import threading, sys
+
+from cgi import parse_qs, escape
+from DBUtils.PooledDB import PooledDB
+from urllib import urlencode
+import urllib
+import binascii
+import cgi
+import LOG
+import MultipartPostHandler, urllib2
+import memcache, time
+#import pylibmc
+import time
+
+#pool = PooledDB(MySQLdb,mincached=1,maxcached=1,maxshared=1,maxconnections=1,host=config.host,user=config.user,passwd=config.passwd,db=config.db,port=config.port)
+#mc = pylibmc.Client([config.memServer], binary=True,behaviors={"tcp_nodelay": True,"ketama": True})
+mc = memcache.Client([config.memServer], debug=0)
+_USERNAME="_USERNAME"
+_PASSWORD="_PASSWORD"
+_LEFTCOUNT="_LEFTCOUNT"
+_CALLEDCOUNT="_CALLEDCOUNT"
+_SUCCESSCOUNT="_SUCCESSCOUNT"
+_TOKEN="_TOKEN"
+_STATUS="_STATUS"
+_PARENTID="_PARENTID"
+calledCounts = {}
+successCounts = {}
+totalLeft = 0
+totalcalled = 0
+totalSuccess = 0
+preTime = None
+curTime = None
+
+def getAllID():
+    #conn = pool.connection()
+    try:
+        conn = None
+        cur = None
+        #conn = pool.connection()
+        conn=MySQLdb.connect(host=config.host,user=config.user,passwd=config.passwd,db=config.db,port=config.port)
+        cur=conn.cursor()
+        cur.execute("select * from userinfo where status=0")
+        rows = cur.fetchall()
+        print 'getAllID'
+        ids = []
+        for row in rows:
+            ID=row[0]
+            #print(ID)
+            ids.append(str(ID))
+        cur.close()
+        conn.close()
+        return ids
+    except MySQLdb.Error,e:
+        print "Mysql Error %d: %s" % (e.args[0], e.args[1])
+        LOG.log.error("Mysql Error %d: %s, %s" % (e.args[0], e.args[1], "update userinfo set calledCount"))
+        flag='error'
+        if cur != None:
+            cur.close()
+        if conn != None:
+            conn.close()
+        return []
+def init():
+    try:
+        #mc.flush_all()
+        conn = None
+        cur = None
+        #conn = pool.connection()
+        conn=MySQLdb.connect(host=config.host,user=config.user,passwd=config.passwd,db=config.db,port=config.port)
+        cur=conn.cursor()
+        cur.execute("select * from userinfo")
+        rows = cur.fetchall()
+        print 'init begin'
+        for row in rows:
+            ID=row[0]
+            mc.set(row[7],ID)
+            mc.set(row[1],ID)
+            mc.set(str(ID)+_USERNAME,row[1])
+            mc.set(str(ID)+_PASSWORD,row[2])
+            mc.set(str(ID)+_LEFTCOUNT,row[3])
+            mc.set(str(ID)+_CALLEDCOUNT,row[4])
+            mc.set(str(ID)+_SUCCESSCOUNT,row[5])
+            mc.set(str(ID)+_TOKEN,row[7])
+            mc.set(str(ID)+_STATUS,row[10])
+            mc.set(str(ID)+_PARENTID,row[11])
+            print("After init, %s, %s, %s" % (mc.get(row[7]), mc.get(row[1]), mc.get(str(ID)+_LEFTCOUNT)))
+        cur.close()
+        conn.close()
+    except MySQLdb.Error,e:
+        print "Mysql Error %d: %s" % (e.args[0], e.args[1])
+        LOG.log.error("Mysql Error %d: %s, %s" % (e.args[0], e.args[1], "update userinfo set calledCount"))
+        flag='error'
+        if cur != None:
+            cur.close()
+        if conn != None:
+            conn.close()
+        return '1004'
+
+def initone(ID):
+    try:
+        print('init one')
+        conn = None
+        cur = None
+        #conn = pool.connection()
+        conn=MySQLdb.connect(host=config.host,user=config.user,passwd=config.passwd,db=config.db,port=config.port)
+        cur=conn.cursor()
+        cur.execute("select * from userinfo where ID = %s" % (ID))
+        rows = cur.fetchall()
+        ret = rows[0]
+        ID=ret[0]
+        KeyUserName=str(ID)+"_USERNAME"
+        KeyPassWord=str(ID)+"_PASSWORD"
+        KeyLeftCount=str(ID)+"_LEFTCOUNT"
+        KeyCalledCount=str(ID)+"_CALLEDCOUNT"
+        KeySuccessCount=str(ID)+"_SUCCESSCOUNT"
+        KeyToken="_TOKEN"
+        KeyStatus=str(ID)+"_STATUS"
+        KeyParentId=str(ID)+"_PARENTID"
+        print(ret[0])
+        #print(ret[7])
+        mc.set(ret[7],ID)
+        if ret[1] != None and len(ret[1]) > 0:
+            print "rest out:"
+            print ret[1]
+            print ID
+            mc.set(ret[1],ID)
+            mc.set(KeyUserName,ret[1])
+            mc.set(KeyPassWord,ret[2])
+            mc.set(KeyLeftCount,ret[3])
+            mc.set(KeyCalledCount,ret[4])
+            mc.set(KeySuccessCount,ret[5])
+            mc.set(KeyToken,ret[7])
+            mc.set(KeyStatus,ret[10])
+            mc.set(KeyParentId,ret[11])
+        if ret[1] != None and len(ret[1]) > 0:
+            print("%s, %s, %s" % (mc.get(ret[7]), mc.get(ret[1]), mc.get(KeyLeftCount)))
+        cur.close()
+        conn.close()
+    except MySQLdb.Error,e:
+        print "Mysql Error %d: %s" % (e.args[0], e.args[1])
+        LOG.log.error("Mysql Error %d: %s, %s" % (e.args[0], e.args[1], "update userinfo set calledCount"))
+        flag='error'
+        if cur != None:
+            cur.close()
+        if conn != None:
+            conn.close()
+
+def updateAllFromMysql():
+    try:
+        conn = None
+        cur = None
+        #conn = pool.connection()
+        conn=MySQLdb.connect(host=config.host,user=config.user,passwd=config.passwd,db=config.db,port=config.port)
+        cur=conn.cursor()
+        cur.execute("select * from userinfo")
+        rows = cur.fetchall()
+        print 'update all begin'
+        for row in rows:
+            ID=row[0]
+            mc.set(row[7],ID)
+            #username can not change
+            #mc.set(row[1],ID)
+            #mc.set(str(ID)+_USERNAME,row[1])
+            oldkey = mc.get(str(ID)+_PASSWORD)
+            if row[2] != oldkey and oldkey != None:
+                print("password changed")
+                mc.set(str(ID)+_PASSWORD,row[2])
+                #mc.delete(str(ID)+oldkey)
+
+            oldkey = mc.get(str(ID)+_STATUS)
+            if row[10] != oldkey and oldkey != None:
+                mc.set(str(ID)+_STATUS,row[10])
+
+            oldkey = mc.get(str(ID)+_TOKEN)
+            if row[7] != oldkey and oldkey != None:
+                mc.set(str(ID)+_TOKEN,row[7])
+                mc.set(row[7],ID)
+                #token was saved twice, so delete twice
+                #mc.delete(str(ID)+oldkey)
+                print oldkey
+                if mc.get(oldkey) != None:
+                    mc.delete(oldkey)
+            
+            
+            #parentid can not change
+            #mc.set(str(ID)+_PARENTID,row[11])
+            #print("(After : %s, %s, %s, %s)" % (mc.get(row[7]), mc.get(str(ID)+_PASSWORD), mc.get(str(ID)+_TOKEN), mc.get(str(ID)+_STATUS)))
+        cur.close()
+        conn.close()
+    except MySQLdb.Error,e:
+        print "Mysql Error %d: %s" % (e.args[0], e.args[1])
+        LOG.log.error("Mysql Error %d: %s, %s" % (e.args[0], e.args[1], "update userinfo set calledCount"))
+        if cur != None:
+            cur.close()
+        if conn != None:
+            conn.close()
+
+'''
+sync method between memcached and mysql
+Attention:we only update leftcount, calledcount, successcount now, web changed data will be implemented later
+'''
+def sync():
+    try:
+        #conn = pool.connection()
+        conn = None
+        cur = None
+        global preTime, totalcalled, calledCounts, curTime, successCounts, totalLeft, totalSuccess
+        #conn = pool.connection()
+        conn=MySQLdb.connect(host=config.host,user=config.user,passwd=config.passwd,db=config.db,port=config.port)
+        cur=conn.cursor()
+        ids = getAllID()
+        totalLeft = 0
+        for ID in ids:
+            #test if exsit
+            LEFTCOUNT = mc.get(ID + _LEFTCOUNT)
+            CALLEDCOUNT = mc.get(ID + _CALLEDCOUNT)
+            SUCCESSCOUNT = mc.get(ID + _SUCCESSCOUNT)
+            STATUS=0
+            if CALLEDCOUNT > 5000:
+                if float( SUCCESSCOUNT ) / CALLEDCOUNT < 0.1:
+                    STATUS=1
+                    print 'account closed!! for not reporting!'
+            print("(%s, %s, %s, %s)" % (ID, LEFTCOUNT, CALLEDCOUNT, SUCCESSCOUNT))
+            if LEFTCOUNT != None and CALLEDCOUNT != None and SUCCESSCOUNT != None:
+                cur.execute("update userinfo set leftcount=%s, calledcount=%s, successcount=%s,status=%s where ID=%s" % (LEFTCOUNT, CALLEDCOUNT, SUCCESSCOUNT, STATUS, ID))
+                #calc speed
+                if ID + _CALLEDCOUNT in calledCounts:
+                    totalcalled += CALLEDCOUNT - calledCounts[ID + _CALLEDCOUNT]
+                    calledCounts[ID + _CALLEDCOUNT] = CALLEDCOUNT
+                else:
+                    calledCounts[ID + _CALLEDCOUNT] = CALLEDCOUNT
+                if ID + _SUCCESSCOUNT in successCounts:
+                    totalSuccess += SUCCESSCOUNT - successCounts[ID + _SUCCESSCOUNT]
+                    successCounts[ID + _SUCCESSCOUNT] = SUCCESSCOUNT
+                else:
+                    successCounts[ID + _SUCCESSCOUNT] = SUCCESSCOUNT
+                totalLeft += LEFTCOUNT
+            else:
+                initone(ID)
+        cur.close()
+        conn.commit()
+        conn.close()
+        if preTime == None:
+            preTime = time.time()
+        else:
+            curTime = time.time()
+            elp = curTime - preTime
+            strs = "Total %s, time %s, speed %s, success %s" % (str(totalLeft), elp, str(float(totalcalled / elp)), str(float(totalSuccess / elp)))
+            print(strs)
+            output = open("/root/code/web/static/index/status.html", 'w')
+            output.write("<html>" + strs + "</html>")
+            output.close()
+            preTime = curTime
+            totalcalled = 0
+            totalSuccess = 0
+            
+        
+    except MySQLdb.Error,e:
+        print "Mysql Error %d: %s" % (e.args[0], e.args[1])
+        LOG.log.error("Mysql Error %d: %s, %s" % (e.args[0], e.args[1], "update userinfo set calledCount"))
+        if cur != None:
+            cur.close()
+        if conn != None:
+            conn.close()
+   
+
+if __name__ == "__main__":
+    init()
+    while(True):
+        sync()
+        updateAllFromMysql()
+        time.sleep(5)
+
