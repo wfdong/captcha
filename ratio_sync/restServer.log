@@ -1,0 +1,1248 @@
+
+2014-10-27 01:45:43,932 ERROR   [sync.py:190(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 03:30:56,793 ERROR   [sync.py:190(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 04:35:09,629 ERROR   [sync.py:184(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 05:06:57,957 ERROR   [sync.py:217(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 05:09:58,801 ERROR   [sync.py:184(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 05:13:08,371 ERROR   [sync.py:184(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 05:15:17,663 ERROR   [sync.py:217(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 05:16:58,033 ERROR   [sync.py:184(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 05:21:21,807 ERROR   [sync.py:184(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 05:22:29,812 ERROR   [sync.py:217(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 05:24:18,007 ERROR   [sync.py:57(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 05:26:32,184 ERROR   [sync.py:184(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 05:28:02,364 ERROR   [sync.py:217(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 05:30:13,538 ERROR   [sync.py:184(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 05:31:34,790 ERROR   [sync.py:57(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 05:34:15,230 ERROR   [sync.py:184(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 05:37:09,672 ERROR   [sync.py:57(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 05:38:37,747 ERROR   [sync.py:57(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 05:42:19,360 ERROR   [sync.py:57(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 05:49:18,655 ERROR   [sync.py:184(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 05:50:41,827 ERROR   [sync.py:184(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 05:52:06,949 ERROR   [sync.py:57(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 05:56:21,895 ERROR   [sync.py:184(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 05:59:12,463 ERROR   [sync.py:184(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 06:00:20,469 ERROR   [sync.py:217(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 06:06:46,419 ERROR   [sync.py:57(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 06:07:54,439 ERROR   [sync.py:217(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 06:09:16,532 ERROR   [sync.py:57(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 06:10:51,734 ERROR   [sync.py:57(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 06:12:03,752 ERROR   [sync.py:57(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 06:14:14,091 ERROR   [sync.py:184(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 06:18:18,833 ERROR   [sync.py:184(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 06:21:15,059 ERROR   [sync.py:57(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 06:27:49,710 ERROR   [sync.py:217(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (111), update userinfo set calledCount
+2014-10-27 06:27:49,710 ERROR   [sync.py:184(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (111), update userinfo set calledCount
+2014-10-27 06:27:54,715 ERROR   [sync.py:217(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (111), update userinfo set calledCount
+2014-10-27 06:27:54,715 ERROR   [sync.py:184(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (111), update userinfo set calledCount
+2014-10-27 06:31:10,300 ERROR   [sync.py:184(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 06:32:47,431 ERROR   [sync.py:217(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 06:35:25,879 ERROR   [sync.py:184(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 06:36:53,939 ERROR   [sync.py:217(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 06:39:12,331 ERROR   [sync.py:57(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 06:41:04,418 ERROR   [sync.py:57(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 06:43:15,708 ERROR   [sync.py:217(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 06:44:31,773 ERROR   [sync.py:217(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 06:45:34,773 ERROR   [sync.py:184(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 06:50:32,449 ERROR   [sync.py:217(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 06:51:45,516 ERROR   [sync.py:184(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 06:52:56,522 ERROR   [sync.py:57(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 06:54:04,540 ERROR   [sync.py:217(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 06:55:16,593 ERROR   [sync.py:184(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 06:56:37,706 ERROR   [sync.py:184(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 06:57:45,711 ERROR   [sync.py:217(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 06:59:53,912 ERROR   [sync.py:217(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 07:01:02,932 ERROR   [sync.py:217(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 07:02:05,932 ERROR   [sync.py:184(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 07:03:14,938 ERROR   [sync.py:57(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 07:11:15,116 ERROR   [sync.py:138(initone)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 07:12:49,315 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 07:14:48,435 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 07:17:03,691 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 07:18:14,709 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 07:21:10,045 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 07:23:41,374 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 07:24:49,379 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 07:25:58,400 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 07:27:18,475 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 07:28:43,561 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 07:31:04,688 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 07:32:50,702 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 07:33:58,721 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 07:36:24,045 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 07:38:21,286 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 07:40:36,417 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 07:44:34,077 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 07:46:13,086 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 07:48:16,267 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 07:49:49,458 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 07:51:05,594 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 07:53:46,890 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 07:55:27,956 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 07:58:11,129 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:03:44,031 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:04:56,080 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:09:16,442 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:12:34,918 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:13:42,935 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:15:01,999 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:17:18,301 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:19:04,561 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:20:15,577 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:21:27,595 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:24:19,887 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:26:17,012 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:27:20,013 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:28:28,017 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:30:08,077 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:33:00,387 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:34:03,387 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:35:42,393 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:36:50,408 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:39:06,645 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:41:42,791 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:42:45,792 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:43:53,798 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:45:25,885 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:48:20,211 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:49:50,294 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:51:13,314 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:52:25,377 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:53:34,420 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:54:57,541 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:56:12,560 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 08:59:36,984 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:00:39,985 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:02:12,120 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:03:53,288 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:05:01,293 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:06:09,308 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:07:20,323 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:08:42,384 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:10:05,423 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:11:26,526 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:12:34,532 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:14:10,664 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:15:48,789 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:19:20,046 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:20:47,131 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:22:51,332 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:24:19,444 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:26:05,671 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:27:30,774 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:28:38,781 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:31:23,008 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:33:02,049 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:34:21,114 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:35:43,302 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:37:42,413 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:39:09,521 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:42:12,932 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:43:15,933 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:45:28,120 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:46:36,133 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:49:31,475 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:51:32,603 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:55:14,962 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:56:48,107 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 09:58:34,229 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 10:00:13,291 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 10:04:25,897 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 10:06:03,048 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 10:08:24,286 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 10:13:08,697 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 10:14:16,702 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 10:15:19,703 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 10:18:45,143 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 10:21:31,447 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 10:22:55,516 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 10:24:18,532 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 10:25:21,533 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 10:28:48,885 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 10:30:11,939 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 10:31:27,040 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 10:34:49,358 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 10:36:01,410 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 10:38:29,658 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 10:39:41,684 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 10:41:51,924 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 10:46:27,788 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 10:48:56,964 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 10:50:44,032 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 10:52:36,171 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 10:53:39,171 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 10:56:26,540 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 10:58:26,610 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:01:18,730 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:02:21,731 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:06:16,223 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:07:45,388 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:14:25,150 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:15:41,165 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:17:05,225 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:18:15,274 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:19:26,282 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:20:35,296 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:22:22,417 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:23:30,423 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:24:45,440 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:25:54,459 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:27:08,596 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:28:47,605 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:30:30,687 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:31:39,702 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:32:47,721 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:33:58,735 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:36:06,919 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:37:20,995 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:38:30,010 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:39:42,080 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:40:50,130 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:42:18,272 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:43:29,330 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:46:47,736 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:48:26,786 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:50:04,902 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:52:27,093 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:53:35,107 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:55:18,257 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:56:27,276 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 11:57:42,341 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:02:28,858 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:06:22,615 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:08:23,731 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:10:40,976 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:11:55,994 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:12:58,995 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:14:07,002 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:16:07,177 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:17:10,178 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:18:26,249 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:19:42,268 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:21:08,387 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:22:45,575 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:26:14,768 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:27:17,769 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:28:32,830 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:31:06,009 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:32:09,010 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:33:43,100 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:35:58,338 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:37:06,345 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:38:09,345 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:40:12,505 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:41:20,510 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:42:23,512 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:43:31,518 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:45:10,534 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:47:40,664 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:49:03,743 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:50:26,763 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:52:18,936 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:54:27,165 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:57:08,389 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:58:16,396 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 12:59:59,524 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:01:08,540 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:02:50,683 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:03:53,684 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:05:04,744 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:06:13,796 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:07:21,835 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:08:36,841 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:10:03,894 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:12:01,958 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:13:15,019 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:15:43,308 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:20:02,705 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:21:40,824 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:22:49,832 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:24:37,952 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:27:29,175 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:28:44,230 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:30:23,273 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:31:58,452 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:33:34,577 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:36:27,766 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:37:42,784 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:39:21,912 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:43:55,605 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:45:39,668 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:46:50,684 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:48:06,732 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:50:07,960 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:51:22,967 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:53:31,112 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:55:52,248 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:58:22,556 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 13:59:45,609 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:01:16,679 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:03:00,858 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:04:41,981 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:05:49,998 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:07:45,073 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:09:09,189 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:12:18,353 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:14:10,540 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:15:18,547 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:16:42,611 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:17:50,617 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:19:05,635 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:20:08,637 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:21:16,645 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:22:55,782 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:24:06,798 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:27:30,143 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:31:17,492 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:34:41,738 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:35:44,739 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:36:52,784 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:39:04,955 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:40:38,026 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:42:06,104 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:43:28,186 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:44:36,202 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:45:39,203 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:47:18,210 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:48:34,320 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:49:42,327 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:51:08,380 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:53:02,499 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:54:16,522 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:55:19,523 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 14:56:27,528 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:00:56,018 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:01:59,018 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:03:47,068 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:04:50,069 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:05:59,113 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:07:13,167 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:08:24,218 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:09:32,224 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:12:38,633 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:15:17,913 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:16:52,982 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:17:55,982 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:20:08,090 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:21:29,190 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:22:44,196 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:23:47,196 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:25:25,269 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:26:33,282 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:28:21,353 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:29:32,414 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:32:00,568 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:34:05,677 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:35:45,872 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:37:03,934 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:38:11,940 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:39:56,027 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:41:12,048 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:42:28,105 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:46:22,582 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:48:09,762 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:50:09,954 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:52:19,967 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:53:33,024 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:55:03,078 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:57:06,324 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 15:59:00,380 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 16:00:34,498 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 16:02:13,684 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 16:03:28,757 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 16:09:08,455 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 16:10:23,474 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 16:12:36,711 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 16:14:54,877 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 16:17:04,056 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 16:18:48,155 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 16:21:43,504 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 16:23:07,624 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 16:25:10,885 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 16:26:35,939 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 16:27:43,944 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 16:30:04,176 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 16:33:01,541 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 16:35:28,845 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 16:37:04,986 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 16:38:38,143 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 16:40:33,268 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 16:42:57,434 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 16:44:05,528 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 16:45:22,580 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 16:46:33,629 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 16:48:32,738 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 16:50:45,972 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 16:52:13,030 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 16:55:48,710 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 16:59:08,139 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:00:49,313 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:01:57,318 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:03:00,318 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:05:11,513 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:06:51,637 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:08:43,814 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:10:06,870 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:11:27,980 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:13:21,117 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:14:29,134 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:15:41,186 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:17:19,368 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:18:42,388 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:20:16,457 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:21:19,457 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:22:59,641 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:24:02,640 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:25:30,711 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:28:26,014 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:29:42,034 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:30:50,052 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:32:45,238 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:33:55,284 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:36:00,486 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:37:03,487 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:38:11,538 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:39:19,545 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:40:28,558 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:41:48,631 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:43:19,781 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:46:27,040 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:47:35,044 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:50:14,388 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:52:41,545 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:54:16,675 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:55:48,806 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:56:59,823 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 17:59:28,928 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:01:41,093 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:04:04,316 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:05:12,322 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:08:24,609 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:10:31,740 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:12:42,912 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:14:08,004 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:15:17,010 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:18:03,079 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:19:14,097 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:21:31,176 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:22:39,192 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:23:48,211 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:25:16,342 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:26:19,342 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:27:57,515 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:29:59,580 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:31:02,581 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:32:25,627 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:33:33,676 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:34:41,684 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:36:47,804 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:37:55,809 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:38:58,809 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:40:24,860 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:44:03,100 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:45:18,118 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:46:26,135 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:47:29,136 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:50:25,311 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:51:41,377 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:54:48,736 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:56:14,790 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:57:25,843 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:58:33,849 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 18:59:45,907 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:00:53,952 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:02:45,011 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:03:48,011 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:04:56,016 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:06:19,062 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:07:34,111 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:09:28,166 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:11:10,229 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:12:26,286 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:13:34,291 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:14:42,305 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:16:02,382 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:22:33,360 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:23:36,361 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:25:29,485 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:27:16,596 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:28:24,602 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:29:40,670 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:30:48,677 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:31:51,677 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:33:45,739 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:35:58,980 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:37:06,985 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:39:03,168 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:41:05,291 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:42:16,302 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:43:19,303 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:46:32,253 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:48:11,261 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:49:32,331 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:53:14,587 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:54:23,601 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:55:40,654 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:57:04,718 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 19:59:30,857 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 20:00:45,875 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 20:02:08,889 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 20:03:47,910 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 20:05:18,982 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 20:06:21,983 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 20:07:44,050 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 20:08:47,051 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 20:09:55,057 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 20:10:58,058 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 20:12:06,063 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 20:13:15,079 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 20:15:56,554 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 20:18:43,791 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 20:20:26,335 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 20:23:20,852 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 20:25:53,104 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 20:26:56,104 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 20:28:05,110 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 20:29:43,536 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 20:30:54,542 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 20:32:03,556 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 20:34:57,833 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 20:36:30,007 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 20:38:27,142 ERROR   [sync.py:222(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 20:40:41,329 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 20:42:23,387 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 20:44:05,616 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 20:46:46,133 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 20:48:36,257 ERROR   [sync.py:58(getAllID)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-10-27 20:49:39,257 ERROR   [sync.py:188(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-11-14 00:00:52,001 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:01:44,049 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:02:36,095 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:03:28,146 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:04:20,195 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:05:12,242 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:06:04,289 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:06:56,338 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:07:48,384 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:08:40,429 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:09:32,476 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:10:24,523 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:11:16,572 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:12:08,620 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:13:00,668 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:13:52,717 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:14:44,769 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:15:36,815 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:16:28,865 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:17:20,916 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:18:13,968 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:19:06,019 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:19:58,069 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:20:50,120 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:21:42,169 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:22:34,219 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:23:26,265 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:24:18,315 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:25:10,365 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:26:02,412 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:26:54,460 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:27:46,509 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:28:38,557 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:29:30,606 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:30:22,658 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:31:14,705 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:32:06,754 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:32:58,802 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:33:50,849 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:34:42,898 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:35:35,950 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:36:28,998 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:37:21,048 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:38:13,098 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:39:05,149 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:39:57,198 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:40:49,249 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:41:41,298 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:42:33,346 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:43:25,396 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:44:17,445 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:45:09,490 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:46:01,539 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:46:53,588 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:47:45,637 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:48:37,686 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:49:29,735 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:50:21,782 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:51:13,830 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:52:05,879 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:52:57,927 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:53:50,978 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:54:43,027 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:55:35,076 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:56:27,124 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:57:19,173 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:58:11,222 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:59:03,270 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 00:59:55,318 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:00:47,366 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:01:39,416 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:02:31,463 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:03:23,510 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:04:15,560 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:05:07,612 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:05:59,662 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:06:51,711 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:07:43,761 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:08:35,812 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:09:27,860 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:10:19,908 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:11:12,959 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:12:05,009 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:12:57,060 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:13:49,112 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:14:41,164 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:15:33,212 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:16:25,264 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:17:17,314 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:18:09,361 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:19:01,409 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:19:53,459 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:20:45,510 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:21:37,561 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:22:29,608 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:23:21,657 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:24:13,711 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:25:05,762 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:25:57,809 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:26:49,856 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:27:41,908 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:28:33,956 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:29:26,006 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:30:18,055 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:31:10,103 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:32:02,151 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:32:54,200 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:33:46,247 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:34:38,294 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:35:30,344 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:36:22,395 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:37:14,444 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:38:06,493 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:38:58,539 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:39:50,590 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:40:42,639 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:41:34,691 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:42:26,744 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:43:18,792 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:44:10,844 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:45:02,890 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:45:55,940 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:46:48,990 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:47:41,038 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:48:33,089 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:49:25,138 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:50:17,187 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:51:09,237 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:52:01,285 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:52:53,337 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:53:45,388 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:54:37,438 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:55:29,489 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:56:21,539 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:57:13,589 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:58:05,642 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:58:57,692 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 01:59:49,742 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:00:41,789 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:01:33,839 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:02:25,891 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:03:18,942 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:04:11,992 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:05:04,039 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:05:56,089 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:06:48,142 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:07:40,191 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:08:32,241 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:09:24,292 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:10:16,342 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:11:08,393 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:12:00,442 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:12:52,492 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:13:44,540 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:14:36,590 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:15:28,640 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:16:20,690 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:17:12,739 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:18:04,788 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:18:56,839 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:19:48,885 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:20:41,933 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:21:34,985 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:22:27,035 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:23:19,081 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:24:11,130 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:25:03,177 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:25:55,222 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:26:47,273 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:27:39,324 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:28:31,375 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:29:23,421 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:30:15,468 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:31:07,516 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:31:59,563 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:32:51,613 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:33:43,663 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:34:35,713 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:35:27,761 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:36:19,811 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:37:11,862 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:38:03,911 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:38:56,962 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:39:49,013 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:40:41,060 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:41:33,109 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:42:25,159 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:43:17,208 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:44:09,258 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:45:01,309 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:45:53,359 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:46:45,410 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:47:37,456 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:48:29,506 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:49:21,554 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:50:13,605 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:51:05,654 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:51:57,704 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:52:49,753 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:53:41,802 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:54:33,852 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:55:25,903 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:56:18,956 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:57:11,006 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:58:03,054 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:58:55,102 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 02:59:47,154 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:00:39,204 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:01:31,254 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:02:23,304 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:03:15,351 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:04:07,400 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:04:59,449 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:05:51,498 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:06:43,545 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:07:35,592 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:08:27,642 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:09:19,687 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:10:11,735 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:11:03,782 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:11:55,831 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:12:47,882 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:13:40,933 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:14:33,984 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:15:26,033 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:16:18,083 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:17:10,133 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:18:02,183 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:18:54,231 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:19:46,280 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:20:38,330 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:21:30,381 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:22:22,430 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:23:14,479 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:24:06,531 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:24:58,581 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:25:50,632 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:26:42,679 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:27:34,727 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:28:26,774 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:29:19,826 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:30:11,875 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:31:03,923 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:31:56,973 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:32:49,022 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:33:41,072 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:34:33,123 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:35:25,173 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:36:17,225 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:37:09,276 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:38:01,327 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:38:53,378 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:39:45,426 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:40:37,477 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:41:29,528 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:42:21,577 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:43:13,628 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:44:05,677 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:44:57,726 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:45:49,775 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:46:41,825 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:47:33,873 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:48:25,922 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:49:18,971 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:50:11,021 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:51:03,071 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:51:55,123 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:52:47,173 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:53:39,225 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:54:31,274 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:55:23,327 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:56:15,379 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:57:07,428 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:57:59,478 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:58:51,526 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 03:59:43,576 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:00:35,624 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:01:27,671 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:02:19,719 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:03:11,767 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:04:03,818 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:04:55,865 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:05:47,914 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:06:40,965 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:07:33,017 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:08:25,065 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:09:17,115 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:10:09,166 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:11:01,216 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:11:53,264 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:12:45,311 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:13:37,362 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:14:29,411 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:15:21,457 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:16:13,508 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:17:05,556 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:17:57,604 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:18:49,651 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:19:41,701 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:20:33,753 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:21:25,802 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:22:17,854 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:23:09,904 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:24:02,955 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:24:55,005 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:25:47,052 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:26:39,103 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:27:31,152 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:28:23,199 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:29:15,251 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:30:07,297 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:30:59,348 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:31:51,400 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:32:43,444 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:33:35,494 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:34:27,544 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:35:19,593 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:36:11,640 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:37:03,689 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:37:55,739 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:38:47,789 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:39:39,840 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:40:31,890 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:41:23,937 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:42:16,988 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:43:09,040 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:44:01,085 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:44:53,136 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:45:45,184 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:46:37,232 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:47:29,285 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:48:21,335 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:49:13,380 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:50:05,432 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:50:57,480 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:51:49,530 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:52:41,578 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:53:33,626 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:54:25,675 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:55:17,726 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:56:09,774 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:57:01,823 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:57:53,873 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:58:45,926 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 04:59:38,976 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:00:31,026 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:01:23,075 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:02:15,126 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:03:07,176 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:03:59,227 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:04:51,273 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:05:43,322 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:06:35,372 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:07:27,424 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:08:19,474 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:09:11,524 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:10:03,573 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:10:55,622 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:11:47,673 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:12:39,724 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:13:31,774 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:14:23,822 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:15:15,870 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:16:07,916 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:17:00,972 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:17:53,022 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:18:45,070 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:19:37,120 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:20:29,170 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:21:21,218 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:22:13,267 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:23:05,315 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:23:57,363 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:24:49,412 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:25:41,460 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:26:33,507 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:27:25,556 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:28:17,605 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:29:09,654 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:30:01,706 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:30:53,757 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:31:45,805 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:32:37,852 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:33:29,901 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:34:22,952 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:35:15,002 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:36:07,053 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:36:59,105 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:37:51,152 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:38:43,200 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:39:35,246 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:40:27,295 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:41:19,344 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:42:11,391 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:43:03,441 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:43:55,490 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:44:47,539 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:45:39,589 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:46:31,639 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:47:23,690 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:48:15,737 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:49:07,787 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:49:59,836 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:50:51,885 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:51:43,936 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:52:36,986 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:53:29,036 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:54:21,081 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:55:13,127 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:56:05,177 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:56:57,229 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:57:49,278 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:58:41,331 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 05:59:33,383 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:00:25,432 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:01:17,478 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:02:09,527 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:03:01,575 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:03:53,625 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:04:45,673 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:05:37,721 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:06:29,769 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:07:21,817 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:08:13,864 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:09:06,916 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:09:59,968 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:10:52,018 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:11:44,066 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:12:36,116 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:13:28,167 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:14:20,219 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:15:12,270 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:16:04,321 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:16:56,368 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:17:48,417 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:18:40,467 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:19:32,518 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:20:24,570 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:21:16,619 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:22:08,668 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:23:00,718 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:23:52,767 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:24:44,819 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:25:36,870 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:26:28,920 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:27:21,971 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:28:14,022 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:29:06,069 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:29:58,113 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:30:50,158 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:31:42,208 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:32:34,258 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:33:26,309 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:34:18,359 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:35:10,406 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:36:02,454 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:36:54,505 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:37:46,554 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:38:38,606 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:39:30,657 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:40:22,707 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:41:14,759 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:42:06,810 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:42:58,858 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:43:51,909 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:44:44,961 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:45:37,011 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:46:29,060 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:47:21,108 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:48:13,157 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:49:05,207 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:49:57,257 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:50:49,306 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:51:41,355 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:52:33,407 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:53:25,454 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:54:17,503 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:55:09,550 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:56:01,594 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:56:53,644 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:57:45,692 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:58:37,739 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 06:59:29,793 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:00:21,842 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:01:13,887 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:02:06,938 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:02:59,989 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:03:52,040 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:04:44,090 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:05:36,141 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:06:28,191 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:07:20,241 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:08:12,288 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:09:04,339 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:09:56,388 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:10:48,440 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:11:40,487 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:12:32,539 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:13:24,586 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:14:16,630 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:15:08,680 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:16:00,729 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:16:52,778 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:17:44,827 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:18:36,877 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:19:28,928 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:20:21,979 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:21:14,026 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:22:06,078 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:22:58,125 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:23:50,173 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:24:42,223 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:25:34,272 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:26:26,321 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:27:18,371 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:28:10,419 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:29:02,468 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:29:54,516 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:30:46,568 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:31:38,615 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:32:30,662 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:33:22,709 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:34:14,759 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:35:06,809 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:35:58,856 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:36:50,907 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:37:43,956 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:38:36,005 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:39:28,055 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:40:20,103 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:41:12,154 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:42:04,202 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:42:56,254 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:43:48,303 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:44:40,356 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:45:32,405 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:46:24,454 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:47:16,500 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:48:08,547 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:49:00,594 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:49:52,644 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:50:44,693 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:51:36,741 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:52:28,793 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:53:20,843 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:54:12,891 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:55:04,940 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:55:57,990 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:56:50,038 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:57:42,089 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:58:34,140 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 07:59:26,189 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:00:18,238 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:01:10,290 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:02:02,341 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:02:54,387 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:03:46,436 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:04:38,483 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:05:30,534 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:06:22,586 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:07:14,634 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:08:06,683 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:08:58,734 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:09:50,786 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:10:42,836 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:11:34,887 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:12:27,938 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:13:20,987 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:14:13,038 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:15:05,088 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:15:57,138 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:16:49,188 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:17:41,237 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:18:33,285 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:19:25,333 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:20:17,384 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:21:09,437 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:22:01,486 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:22:53,534 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:23:45,584 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:24:37,632 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:25:29,683 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:26:21,733 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:27:13,782 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:28:05,840 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:29:22,916 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:30:15,967 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:31:08,015 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:32:00,063 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:32:52,111 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:33:44,158 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:34:36,205 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:35:28,257 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:36:20,304 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:37:12,354 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:38:04,406 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:38:56,457 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:39:48,510 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:40:40,564 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:41:32,622 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:42:24,679 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:43:16,738 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:44:08,798 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:45:00,859 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:45:52,910 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:46:45,962 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:47:38,020 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:48:30,077 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:49:22,134 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:50:14,190 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:51:06,245 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:51:58,302 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-14 08:52:50,356 ERROR   [sync.py:277(sync)] Mysql Error 1205: Lock wait timeout exceeded; try restarting transaction, update userinfo set calledCount
+2014-11-19 23:37:34,932 ERROR   [sync.py:67(getAllID)] Mysql Error 2013: Lost connection to MySQL server at 'reading initial communication packet', system error: 0, update userinfo set calledCount
+2014-11-19 23:37:34,933 ERROR   [sync.py:299(sync)] Mysql Error 2006: MySQL server has gone away, update userinfo set calledCount
+2014-11-19 23:37:34,933 ERROR   [sync.py:203(updateAllFromMysql)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (111), update userinfo set calledCount
+2014-11-19 23:37:35,935 ERROR   [sync.py:299(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (111), update userinfo set calledCount
+2014-11-19 23:56:44,360 ERROR   [sync.py:152(initone)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-11-20 15:43:23,156 ERROR   [sync.py:299(sync)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (111), update userinfo set calledCount
+2014-11-30 21:26:45,917 ERROR   [sync.py:153(initone)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-11-30 21:28:58,360 ERROR   [sync.py:153(initone)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-11-30 21:30:44,534 ERROR   [sync.py:153(initone)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-11-30 21:34:58,523 ERROR   [sync.py:153(initone)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-11-30 21:36:56,785 ERROR   [sync.py:153(initone)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-11-30 21:38:05,302 ERROR   [sync.py:153(initone)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-11-30 21:39:09,609 ERROR   [sync.py:153(initone)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-11-30 21:40:56,917 ERROR   [sync.py:153(initone)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-11-30 21:42:30,681 ERROR   [sync.py:153(initone)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-11-30 21:44:54,235 ERROR   [sync.py:153(initone)] Mysql Error 2003: Can't connect to MySQL server on '221.206.125.7' (110), update userinfo set calledCount
+2014-12-08 12:29:17,362 ERROR   [ratio_sync.py:116(sync)] ratio error:0.436
+2014-12-08 12:29:42,591 ERROR   [ratio_sync.py:116(sync)] ratio error:0.436
+2014-12-08 12:29:45,628 ERROR   [ratio_sync.py:116(sync)] ratio error:0.436
+2014-12-08 12:34:08,799 ERROR   [ratio_sync.py:116(sync)] ratio error:0.436
+2014-12-08 12:37:12,263 ERROR   [ratio_sync.py:116(sync)] ratio error:0.436
+2014-12-08 21:27:49,946 ERROR   [ratio_sync.py:116(sync)] ratio error:0.556
+2014-12-08 21:35:24,321 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:37:56,136 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:39:08,973 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:40:12,148 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:40:50,215 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:40:56,457 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:41:03,066 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:41:09,558 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:41:16,109 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:41:22,590 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:41:28,019 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:41:33,733 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:41:40,194 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:41:50,588 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:41:56,431 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:42:02,614 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:45:15,163 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:45:21,026 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:45:27,348 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:45:34,143 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:45:40,005 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:45:50,206 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:45:57,357 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:46:03,041 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:48:13,026 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:48:17,215 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:48:21,924 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:48:27,142 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:48:31,239 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:48:35,965 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:50:28,338 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:50:33,383 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:50:38,032 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:50:43,352 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:50:48,092 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:50:59,272 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:51:04,610 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:51:08,859 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:54:01,097 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:54:05,270 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:54:10,684 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:54:20,961 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:54:25,078 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:54:30,001 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 21:55:19,488 ERROR   [ratio_sync.py:118(sync)] ratio error:0.556
+2014-12-08 22:55:21,779 ERROR   [ratio_sync.py:118(sync)] ratio error:0.511
+2014-12-08 23:55:22,682 ERROR   [ratio_sync.py:118(sync)] ratio error:0.475
+2014-12-09 00:55:23,505 ERROR   [ratio_sync.py:118(sync)] ratio error:0.396
+2014-12-09 01:55:24,358 ERROR   [ratio_sync.py:118(sync)] ratio error:0.473
+2014-12-09 02:55:25,137 ERROR   [ratio_sync.py:118(sync)] ratio error:0.464
+2014-12-09 03:55:25,972 ERROR   [ratio_sync.py:118(sync)] ratio error:0.394
+2014-12-09 04:55:26,788 ERROR   [ratio_sync.py:118(sync)] ratio error:0.353
+2014-12-09 05:55:27,644 ERROR   [ratio_sync.py:118(sync)] ratio error:0.293
+2014-12-09 06:55:28,438 ERROR   [ratio_sync.py:118(sync)] ratio error:0.269
+2014-12-09 07:55:29,320 ERROR   [ratio_sync.py:118(sync)] ratio error:0.387
+2014-12-09 08:55:30,235 ERROR   [ratio_sync.py:118(sync)] ratio error:0.392
+2014-12-09 09:55:31,238 ERROR   [ratio_sync.py:118(sync)] ratio error:0.358
+2014-12-09 10:55:32,299 ERROR   [ratio_sync.py:118(sync)] ratio error:0.368
+2014-12-09 11:55:34,248 ERROR   [ratio_sync.py:118(sync)] ratio error:0.442
+2014-12-09 12:55:35,298 ERROR   [ratio_sync.py:118(sync)] ratio error:0.462
+2014-12-09 13:55:36,457 ERROR   [ratio_sync.py:118(sync)] ratio error:0.43
+2014-12-09 14:55:37,724 ERROR   [ratio_sync.py:118(sync)] ratio error:0.438
+2014-12-09 15:55:38,933 ERROR   [ratio_sync.py:118(sync)] ratio error:0.443
+2014-12-09 16:55:40,121 ERROR   [ratio_sync.py:118(sync)] ratio error:0.436
+2014-12-09 17:55:41,383 ERROR   [ratio_sync.py:118(sync)] ratio error:0.504
+2014-12-09 18:55:42,605 ERROR   [ratio_sync.py:118(sync)] ratio error:0.523
+2014-12-09 19:55:43,843 ERROR   [ratio_sync.py:118(sync)] ratio error:0.416
+2014-12-09 20:55:50,142 ERROR   [ratio_sync.py:118(sync)] ratio error:0.351
+2014-12-09 21:55:51,553 ERROR   [ratio_sync.py:118(sync)] ratio error:0.284
+2014-12-09 22:56:02,445 ERROR   [ratio_sync.py:118(sync)] ratio error:0.278
+2014-12-09 23:56:03,755 ERROR   [ratio_sync.py:118(sync)] ratio error:0.27
+2014-12-10 00:56:04,824 ERROR   [ratio_sync.py:118(sync)] ratio error:0.221
+2014-12-10 01:56:06,149 ERROR   [ratio_sync.py:118(sync)] ratio error:0.21
+2014-12-10 02:56:07,464 ERROR   [ratio_sync.py:118(sync)] ratio error:0.175
+2014-12-10 03:56:08,451 ERROR   [ratio_sync.py:118(sync)] ratio error:0.16
+2014-12-10 04:56:09,773 ERROR   [ratio_sync.py:118(sync)] ratio error:0.181
+2014-12-10 05:56:10,760 ERROR   [ratio_sync.py:118(sync)] ratio error:0.18
+2014-12-10 06:56:12,068 ERROR   [ratio_sync.py:118(sync)] ratio error:0.2
+2014-12-10 07:56:13,293 ERROR   [ratio_sync.py:118(sync)] ratio error:0.173
+2014-12-10 08:56:14,847 ERROR   [ratio_sync.py:118(sync)] ratio error:0.134
+2014-12-10 09:56:16,356 ERROR   [ratio_sync.py:118(sync)] ratio error:0.144
+2014-12-10 10:56:17,908 ERROR   [ratio_sync.py:118(sync)] ratio error:0.179
+2014-12-10 11:56:19,443 ERROR   [ratio_sync.py:118(sync)] ratio error:0.193
+2014-12-10 12:56:20,773 ERROR   [ratio_sync.py:118(sync)] ratio error:0.21
+2014-12-10 13:56:27,354 ERROR   [ratio_sync.py:118(sync)] ratio error:0.216
+2014-12-10 14:56:29,046 ERROR   [ratio_sync.py:118(sync)] ratio error:0.197
+2014-12-10 15:56:30,514 ERROR   [ratio_sync.py:118(sync)] ratio error:0.211
+2014-12-10 16:56:32,181 ERROR   [ratio_sync.py:118(sync)] ratio error:0.206
+2014-12-10 17:56:38,858 ERROR   [ratio_sync.py:118(sync)] ratio error:0.211
+2014-12-10 18:56:42,004 ERROR   [ratio_sync.py:118(sync)] ratio error:0.222
+2014-12-10 19:56:43,561 ERROR   [ratio_sync.py:118(sync)] ratio error:0.242
+2014-12-10 20:56:45,149 ERROR   [ratio_sync.py:118(sync)] ratio error:0.27
+2014-12-10 21:56:47,119 ERROR   [ratio_sync.py:118(sync)] ratio error:0.297
+2014-12-10 22:56:48,601 ERROR   [ratio_sync.py:118(sync)] ratio error:0.315
+2014-12-10 23:56:50,170 ERROR   [ratio_sync.py:118(sync)] ratio error:0.32
