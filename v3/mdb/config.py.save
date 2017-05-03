@@ -1,0 +1,117 @@
+import threading
+import MySQLdb
+from DBUtils.PooledDB import PooledDB
+import memcache, time
+
+host='221.206.125.7'
+user='captcha'
+passwd='1234'
+db='test'
+port=3306
+memServer='221.206.125.7:12000'
+
+tokenLock = threading.Lock()
+subuserLock = threading.Lock()
+
+pool = PooledDB(MySQLdb,mincached=2,maxcached=200,maxshared=200,maxconnections=200,host=host,user=user,passwd=passwd,db=db,port=port)
+mc = memcache.Client([memServer], debug=0)
+
+_USERNAME="_USERNAME"
+_PASSWORD="_PASSWORD"
+_LEFTCOUNT="_LEFTCOUNT"
+_CALLEDCOUNT="_CALLEDCOUNT"
+_SUCCESSCOUNT="_SUCCESSCOUNT"
+_TOKEN="_TOKEN"
+_STATUS="_STATUS"
+_PARENTID="_PARENTID"
+
+def checkToken(token):
+    try:
+        conn = pool.connection()
+        #conn=MySQLdb.connect(host=host,user=user,passwd=passwd,db=db,port=port)
+        cur=conn.cursor()
+        cur.execute("select * from userinfo where token='%s' and status=0" % (token))
+        rows = cur.fetchall()
+        if int(cur.rowcount) <= 0:
+            cur.close()
+            conn.close()
+            return "1001"
+        #should check mem here, after mysql select, to prevent wrong token lock
+        tokenLock.acquire()
+        if mc.get(token) != None:
+            tokenLock.release()
+            return "0"
+        row = rows[0]
+        #this id is author id
+        authorID = row[0]
+        #set username and token to ID
+        mc.set(token,authorID)
+        mc.set(row[1],authorID)
+        mc.set(str(authorID)+_USERNAME,row[1])
+        mc.set(str(authorID)+_PASSWORD,row[2])
+        mc.set(str(authorID)+_LEFTCOUNT,row[3])
+        mc.set(str(authorID)+_CALLEDCOUNT,row[4])
+        mc.set(str(authorID)+_SUCCESSCOUNT,row[5])
+        mc.set(str(authorID)+_TOKEN,row[7])
+        mc.set(str(authorID)+_STATUS,row[10])
+        mc.set(str(authorID)+_PARENTID,row[11])
+        cur.close()
+        conn.close()
+        tokenLock.release()
+        return "0"
+    except MySQLdb.Error,e:
+        print "Mysql Error %d: %s" % (e.args[0], e.args[1])
+        LOG.log.error("Mysql Error %d: %s, %s" % (e.args[0], e.args[1], "select ID from userinfo where token"))
+        flag='error'
+        if cur != None:
+            cur.close()
+        if conn != None:
+            conn.close()
+        tokenLock.release()
+        return "1004"
+
+
+def checkSubUser(userN,passW,authorID):
+    try:
+        conn = pool.connection()
+        #conn=MySQLdb.connect(host=host,user=user,passwd=passwd,db=db,port=port)
+        cur=conn.cursor()
+        sql = ("select * from userinfo where account='%s' and password='%s' and parentid = '%s' and status=0" % (userN,passW,authorID))
+        cur.execute(sql)
+        rows = cur.fetchall()
+        if int(cur.rowcount) <= 0:
+            cur.close()
+            conn.close()
+            return '1001'
+        elif rows[0][3] <= 0:
+            #left count not enough
+            cur.close()
+            conn.close()
+            return '1002'
+        #should check mem here, after mysql select, to prevent wrong token lock
+        subuserLock.acquire()
+        if mc.get(userN) != None:
+            subuserLock.release()
+            return "0"
+        ret = rows[0]
+        SubUserID = ret[0]
+        mc.set(ret[7],SubUserID)
+        mc.set(ret[1],SubUserID)
+        mc.set(str(SubUserID)+"_LEFTCOUNT", ret[3])
+        mc.set(str(SubUserID)+"_CALLEDCOUNT", ret[4])
+        mc.set(str(SubUserID)+"_SUCCESSCOUNT", ret[5])
+        mc.set(str(SubUserID)+"_STATUS", ret[10])
+        mc.set(str(SubUserID)+"_PARENTID", ret[11])
+        cur.close()
+        conn.close()
+        subuserLock.release()
+        return "0"
+    except MySQLdb.Error,e:
+        print "Mysql Error %d: %s" % (e.args[0], e.args[1])
+        LOG.log.error("Mysql Error %d: %s, %s" % (e.args[0], e.args[1], "select * from userinfo where account"))
+        if cur != None:
+            cur.close()
+        if conn != None:
+            conn.close()
+        subuserLock.release()
+        return '1004'
