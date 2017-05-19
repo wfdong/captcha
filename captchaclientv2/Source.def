@@ -1,0 +1,14 @@
+LIBRARY	"captchaclient"
+EXPORTS
+captcha_e @1
+captchaError_e @2
+addsubuser_e @3
+querysubuser_e @4
+loginsubuser_e @5
+captcha_stream @6
+captcha_stream_e @7
+test_e @8
+delsubuser_e @9
+modsubuser_e @10
+queryallsubuser_e @11
+queryuserinfo_e @12
